@@ -307,7 +307,7 @@ class Developer {
 
 <!-- Trophy -->
 <a href="https://github.com/mek090">
-  <img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 </a>
 
 <br><br>
