@@ -43,7 +43,7 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="40"/> &nbsp; `$ whoami` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="40"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_excited.gif" width="40"/> &nbsp; `$ whoami` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_excited.gif" width="40"/>
 
 </div>
 
@@ -126,7 +126,7 @@ class Developer {
 
 <div align="center">
 
-## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
+## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_peanuts.gif" width="35"/>
 
 <br>
 
@@ -194,7 +194,7 @@ class Developer {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_smile.gif" width="35"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_smile.gif" width="35"/>
 
 </div>
 
@@ -276,7 +276,7 @@ class Developer {
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="30"/>
+## 📊 `$ neofetch --stats` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_peanuts.gif" width="30"/>
 
 <br>
 
@@ -359,7 +359,7 @@ class Developer {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_smile.gif" width="35"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_smile.gif" width="35"/>
 
 <br>
 
@@ -402,7 +402,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="80" alt="Anya Bye Bye"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_excited.gif" width="80" alt="Anya Bye Bye"/>
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
