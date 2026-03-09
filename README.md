@@ -1,46 +1,46 @@
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HEADER (ANYA PINK THEME) ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=mek090&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20•%20System%20Thinker%20•%20Dark%20Mode%20Only&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e91e8c,100:ff6bc1&height=220&section=header&text=mek090%20👾&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20•%20System%20Thinker%20•%20Waku%20Waku!&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- ═══════════════════════ SOCIAL ICONS ═══════════════════════ -->
 
 <a href="https://www.facebook.com/Rittipon.Aemprakhon">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook"/>
+  <img height="35" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/mke.ritt/">
-  <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.tiktok.com/@mzxei5r">
-  <img height="40" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
+  <img height="35" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/mek090">
-  <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
 <br><br>
 
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+modules...+%E2%9C%93;%3E+Welcome+to+mek090's+terminal+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=%3E+Waku+Waku!+Initializing...+%F0%9F%A5%9C;%3E+Loading+modules...+%E2%9C%93+done!;%3E+Welcome+to+mek090's+terminal+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-<!-- ═══════════════════════ COOL GIF ═══════════════════════ -->
+<!-- ═══════════════════════ ANYA GIF ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216571860d4bef2cd9571/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="coding gif"/>
+<img src="https://media.tenor.com/UONBkMxSig0AAAAi/anya-forger-anya.gif" width="200" alt="Anya Waku Waku"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ ABOUT ME (YAML Style) ═══════════════════════ -->
+<!-- ═══════════════════════ ABOUT ME (YAML + JS) ═══════════════════════ -->
 
 <div align="center">
 
-## 🧬 `$ whoami`
+## <img src="https://media.tenor.com/YOPC3PtPMJkAAAAi/anya-spy-x-family.gif" width="30"/> `$ whoami` <img src="https://media.tenor.com/YOPC3PtPMJkAAAAi/anya-spy-x-family.gif" width="30"/>
 
 </div>
 
@@ -53,7 +53,7 @@
 name: mek090
 role: Full-Stack Developer
 location: "🇹🇭 somewhere in Thailand"
-status: "always building something"
+status: "always building something 🔧"
 
 currently_working_on:
   - Enterprise Meeting Room Booking
@@ -69,6 +69,7 @@ fun_fact: >
   I think in code and dream in dark mode.
   My IDE theme is always set to the darkest
   option available. ☕🌙
+  Also... Waku Waku! 🥜
 
 motto: "Build in silence, let the commits speak."
 ```
@@ -79,19 +80,20 @@ motto: "Build in silence, let the commits speak."
 ```js
 class Developer {
   constructor() {
-    this.name = "mek090";
-    this.role = "Full-Stack Developer";
+    this.name     = "mek090";
+    this.role     = "Full-Stack Developer";
     this.location = "🇹🇭 Thailand";
+    this.spirit   = "Anya Forger 🥜";
   }
 
   get skills() {
     return {
-      languages: ["C#", "TypeScript", "JS", "Python"],
-      frontend: ["Vue 3", "React", "Next.js"],
-      backend: [".NET Core", "EF Core", "MediatR"],
-      database: ["PostgreSQL", "Supabase", "Prisma"],
-      devops: ["Docker", "Git", "CI/CD"],
-      security: ["CTF", "NCSA AI CTF"],
+      languages:  ["C#", "TypeScript", "JS", "Python"],
+      frontend:   ["Vue 3", "React", "Next.js"],
+      backend:    [".NET Core", "EF Core", "MediatR"],
+      database:   ["PostgreSQL", "Supabase", "Prisma"],
+      devops:     ["Docker", "Git", "CI/CD"],
+      security:   ["CTF", "NCSA AI CTF"],
     };
   }
 
@@ -112,7 +114,7 @@ class Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ TECH STACK (DevIcon + Badges) ═══════════════════════ -->
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <div align="center">
 
@@ -184,7 +186,7 @@ class Developer {
 
 <div align="center">
 
-## 🗂️ `$ tree ./projects`
+## <img src="https://media.tenor.com/dHkcMRBljb4AAAAi/anya-forger-spy-x-family.gif" width="35"/> `$ tree ./projects` <img src="https://media.tenor.com/dHkcMRBljb4AAAAi/anya-forger-spy-x-family.gif" width="35"/>
 
 </div>
 
@@ -193,7 +195,7 @@ class Developer {
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🏢_Enterprise-6366f1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢_Enterprise-e91e8c?style=for-the-badge" />
 
 <br><br>
 
@@ -216,7 +218,7 @@ class Developer {
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌐_Personal-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Personal-ff6bc1?style=for-the-badge" />
 
 <br><br>
 
@@ -237,7 +239,7 @@ class Developer {
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐_Security-ef4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐_Security-ff4757?style=for-the-badge" />
 
 <br><br>
 
@@ -271,25 +273,28 @@ class Developer {
 <br>
 
 <a href="https://github.com/mek090">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/mek090">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mek090&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=6366f1&fire=ef4444&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=e91e8c&ring=ff6bc1&fire=ff4757&currStreakLabel=ff6bc1&sideLabels=eaeaea&dates=888888&currStreakNum=ff6bc1&sideNums=eaeaea" alt="GitHub Streak"/>
 
 <br><br>
 
 <!-- ═══════════════════════ TROPHY ═══════════════════════ -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 <br><br>
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0d1117&color=a855f7&line=6366f1&point=ef4444&area_color=a855f7&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -307,6 +312,8 @@ class Developer {
   <img alt="Snake eating contributions" src="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+> 💡 *Push this repo & run the "Generate Snake Animation" GitHub Action to activate!*
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -319,11 +326,11 @@ class Developer {
 
 <br>
 
-|  🔐 Security   |   🤖 AI & ML   | 🚀 Universe |    🎮 Gaming    |  🖥️ Hardware  |
-| :------------: | :------------: | :---------: | :-------------: | :-----------: |
-| CTF Challenges |   Gemini API   |    Space    | Mobile Legends  | PC Components |
-|  NCSA AI CTF   |  Prompt Eng.   |  Astronomy  | Wuthering Waves | Custom Builds |
-| Vuln Research  | AI Integration |   Sci-Fi    |    E-Sports     |  Smartphones  |
+| 🔐 Security | 🤖 AI & ML | 🚀 Universe | 🎮 Gaming | 🖥️ Hardware |
+|:---:|:---:|:---:|:---:|:---:|
+| CTF Challenges | Gemini API | Space | Mobile Legends | PC Components |
+| NCSA AI CTF | Prompt Eng. | Astronomy | Wuthering Waves | Custom Builds |
+| Vuln Research | AI Integration | Sci-Fi | E-Sports | Smartphones |
 
 </div>
 
@@ -333,14 +340,14 @@ class Developer {
 
 <div align="center">
 
-## 💬 `$ fortune | cowsay`
+## <img src="https://media.tenor.com/YOPC3PtPMJkAAAAi/anya-spy-x-family.gif" width="30"/> `$ fortune | cowsay` <img src="https://media.tenor.com/YOPC3PtPMJkAAAAi/anya-spy-x-family.gif" width="30"/>
 
 <br>
 
 ```
   ╔═══════════════════════════════════════════════════════╗
   ║                                                       ║
-  ║   "Build in silence, let the commits speak."          ║
+  ║   "Build in silence, let the commits speak."   🥜     ║
   ║                                       — mek090        ║
   ║                                                       ║
   ╚═══════════════════════════════════════════════════════╝
@@ -350,7 +357,7 @@ class Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ METRICS ═══════════════════════ -->
+<!-- ═══════════════════════ VISITOR METRICS ═══════════════════════ -->
 
 <div align="center">
 
@@ -358,17 +365,19 @@ class Developer {
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=6366f1&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ef4444&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=TOTAL+STARS)
 
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e91e8c,100:ff6bc1&height=120&section=footer" width="100%"/>
 
 <div align="center">
+
+<img src="https://media.tenor.com/UONBkMxSig0AAAAi/anya-forger-anya.gif" width="60" alt="Anya bye bye"/>
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -379,6 +388,6 @@ class Developer {
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
-_⚡ Crafted with passion from Thailand 🇹🇭_
+*⚡ Waku Waku! Crafted with 🥜 from Thailand 🇹🇭*
 
 </div>
