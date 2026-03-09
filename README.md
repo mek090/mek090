@@ -2,13 +2,13 @@
 
 <!-- ═══════════════════════ SAKURA FALLING ═══════════════════════ -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/79b47e802058098c44c9b2e2d96d372a/tumblr_mpy7v1H27A1s93p4ao1_500.gif" width="100%" height="50px" style="object-fit: cover; border-radius: 15px; opacity: 0.8;"/>
+  <img src="https://media.giphy.com/media/M6S50yS2Bv26o/giphy.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
 </div>
 
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
 
 <a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=3" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 183, 197, 0.4);"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(255, 183, 197, 0.5);"/>
 </a>
 
 <br>
