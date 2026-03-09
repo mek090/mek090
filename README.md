@@ -1,9 +1,14 @@
 <div align="center">
 
+<!-- ═══════════════════════ SAKURA FALLING ═══════════════════════ -->
+<div align="center">
+  <img src="https://64.media.tumblr.com/79b47e802058098c44c9b2e2d96d372a/tumblr_mpy7v1H27A1s93p4ao1_500.gif" width="100%" height="50px" style="object-fit: cover; border-radius: 15px; opacity: 0.8;"/>
+</div>
+
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
 
 <a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=2" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 107, 193, 0.4);"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=3" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 183, 197, 0.4);"/>
 </a>
 
 <br>
@@ -45,7 +50,7 @@
 
 <div align="center">
 
-## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ whoami` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ whoami` &nbsp; 🌸 &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/>
 
 </div>
 
@@ -278,21 +283,21 @@ class Developer {
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="30"/>
+## 📊 `$ neofetch --stats` &nbsp; 🌸 &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="30"/>
 
 <br>
 
 <a href="https://github.com/mek090">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5" alt="GitHub Stats"/>
   </picture>
 </a>
 &nbsp;
 <a href="https://github.com/mek090">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
   </picture>
 </a>
 
@@ -300,7 +305,7 @@ class Developer {
 
 <!-- Streak Stats (using demolab which is more reliable) -->
 <a href="https://github.com/mek090">
-  <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=e91e8c&ring=ff6bc1&fire=ff4757&currStreakLabel=ff6bc1&sideLabels=eaeaea&dates=888888&currStreakNum=ff6bc1&sideNums=eaeaea" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakLabel=ffb7c5&sideLabels=eaeaea&dates=888888&currStreakNum=ffb7c5&sideNums=eaeaea" alt="GitHub Streak"/>
 </a>
 
 <br><br>
