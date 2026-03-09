@@ -2,7 +2,9 @@
 
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png" width="100%" alt="mek090 Anya Banner"/>
+<a href="https://github.com/mek090">
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=2" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 107, 193, 0.4);"/>
+</a>
 
 <br>
 
