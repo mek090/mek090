@@ -32,7 +32,7 @@
 
 <!-- ═══════════════════════ ANYA GIF ═══════════════════════ -->
 
-<img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="180" alt="Anya Heh"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="180" alt="Anya Heh"/>
 
 </div>
 
@@ -282,15 +282,15 @@ class Developer {
 
 <a href="https://github.com/mek090">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1&v=1" alt="GitHub Stats"/>
   </picture>
 </a>
 &nbsp;
 <a href="https://github.com/mek090">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ff6bc1&text_color=eaeaea&v=1" alt="Top Languages"/>
   </picture>
 </a>
 
@@ -305,7 +305,7 @@ class Developer {
 
 <!-- Trophy -->
 <a href="https://github.com/mek090">
-  <img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&v=1" alt="Trophies"/>
 </a>
 
 <br><br>
