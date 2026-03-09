@@ -1,25 +1,80 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=mek090&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20System%20Thinker%20%7C%20Dark%20Mode%20Only&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=mek090&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20•%20System%20Thinker%20•%20Dark%20Mode%20Only&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+
+<!-- ═══════════════════════ SOCIAL ICONS ═══════════════════════ -->
+
+<a href="https://www.facebook.com/Rittipon.Aemprakhon">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/mke.ritt/">
+  <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@mzxei5r">
+  <img height="40" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mek090">
+  <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+
+<br><br>
 
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+modules...+%E2%9C%93;%3E+Welcome+to+mek090's+terminal+%F0%9F%91%BE)](https://git.io/typing-svg)
 
+<!-- ═══════════════════════ COOL GIF ═══════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216571860d4bef2cd9571/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="coding gif"/>
+
 </div>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ ABOUT ME (YAML Style) ═══════════════════════ -->
+
+<div align="center">
+
+## 🧬 `$ whoami`
+
+</div>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧬 `$ whoami`
+```yaml
+name: mek090
+role: Full-Stack Developer
+location: "🇹🇭 somewhere in Thailand"
+status: "always building something"
+
+currently_working_on:
+  - Enterprise Meeting Room Booking
+  - Vehicle Booking System
+  - Risk Management Platform
+
+currently_learning:
+  - AI Integration & Prompt Engineering
+  - Advanced System Architecture
+  - Cybersecurity & CTF
+
+fun_fact: >
+  I think in code and dream in dark mode.
+  My IDE theme is always set to the darkest
+  option available. ☕🌙
+
+motto: "Build in silence, let the commits speak."
+```
+
+</td>
+<td width="50%" valign="top">
 
 ```js
 class Developer {
@@ -27,52 +82,26 @@ class Developer {
     this.name = "mek090";
     this.role = "Full-Stack Developer";
     this.location = "🇹🇭 Thailand";
-    this.status = "Always building something";
   }
 
   get skills() {
     return {
-      languages: ["C#", "TypeScript", "JavaScript", "Python"],
-      frontend: ["Vue 3", "React", "Next.js", "Tailwind"],
+      languages: ["C#", "TypeScript", "JS", "Python"],
+      frontend: ["Vue 3", "React", "Next.js"],
       backend: [".NET Core", "EF Core", "MediatR"],
       database: ["PostgreSQL", "Supabase", "Prisma"],
       devops: ["Docker", "Git", "CI/CD"],
+      security: ["CTF", "NCSA AI CTF"],
     };
   }
 
-  get motto() {
-    return "Build in silence, let the commits speak.";
+  get currentFocus() {
+    return [
+      "Enterprise Systems 🏢",
+      "AI Integration 🤖",
+      "Security Research 🔐",
+    ];
   }
-}
-```
-
-</td>
-<td width="50%">
-
-### 🎯 `$ cat ./focus`
-
-```python
-current_focus = {
-    "🏢 enterprise": [
-        "Meeting Room Booking System",
-        "Vehicle Booking System",
-        "Risk Management Platform",
-    ],
-    "🤖 ai_integration": [
-        "Gemini API",
-        "Prompt Engineering",
-        "AI-Powered Apps",
-    ],
-    "🔐 security": [
-        "CTF Challenges",
-        "NCSA AI CTF",
-        "Vulnerability Research",
-    ],
-    "🚀 exploration": [
-        "Space & Astronomy",
-        "Sci-Fi Concepts",
-        "New Technologies",
-    ],
 }
 ```
 
@@ -83,45 +112,69 @@ current_focus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ═══════════════════════ TECH STACK (DevIcon + Badges) ═══════════════════════ -->
 
 <div align="center">
 
-## ⚡ `$ ls ./tech-stack`
+## 🚀 `$ ls ./tech-stack`
 
 <br>
 
-### 🖥️ Languages & Core
+### 🖥️ Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
 
-### 🎨 Frontend
+### 🎨 Frontend Frameworks
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+</p>
 
 ### ⚙️ Backend & Database
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50"/>
+</p>
 
 ### 🛠️ Tools & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+</p>
 
 </div>
 
@@ -140,50 +193,67 @@ current_focus = {
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🏢-Enterprise-6366f1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢_Enterprise-6366f1?style=for-the-badge" />
+
+<br><br>
 
 **📅 Meeting Room Booking**
+<br>
 `.NET Core` `Vue 3` `TypeScript`
 
 ─────────────────
 
 **🚗 Vehicle Booking**
+<br>
 `Full-Stack` `DB Design`
 
 ─────────────────
 
 **⚠️ Risk Management**
+<br>
 `Feature Modules` `Master Data`
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌐-Personal-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Personal-a855f7?style=for-the-badge" />
+
+<br><br>
 
 **🗺️ Buriram Travel Guide**
+<br>
 `Next.js` `Supabase` `Gemini AI`
 
 ─────────────────
 
 🤖 AI Chatbot
-🌦️ Weather Suggestions
+<br>
+🌦️ Weather-based Suggestions
+<br>
 ⭐ Review System
+<br>
 🗺️ Interactive Map
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐-Security-ef4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐_Security-ef4444?style=for-the-badge" />
+
+<br><br>
 
 **🏴‍☠️ CTF Challenges**
+<br>
 `NCSA AI CTF`
 
 ─────────────────
 
 🔍 Vulnerability Research
-� Reverse Engineering
+<br>
+🧠 Reverse Engineering
+<br>
 🛡️ Exploit Development
-� Network Analysis
+<br>
+📡 Network Analysis
 
 </td>
 </tr>
@@ -225,19 +295,17 @@ current_focus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
 
 <div align="center">
 
 ## 🐍 `$ ./snake --eat-contributions`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mek090/mek090/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> 💡 _If the snake isn't visible yet — set up the [snk GitHub Action](https://github.com/Platane/snk) in your repo!_
 
 </div>
 
@@ -261,7 +329,7 @@ current_focus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ DAILY DEV QUOTE ═══════════════════════ -->
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
 <div align="center">
 
@@ -269,26 +337,14 @@ current_focus = {
 
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20in%20silence%2C%20let%20the%20commits%20speak.&author=mek090)](https://github.com/mek090)
-
-<br>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ SPOTIFY / METRICS ═══════════════════════ -->
-
-<div align="center">
-
-## 📡 `$ ping ./socials`
-
-<br>
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Rittipon.Aemprakhon)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mke.ritt/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mzxei5r)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mek090)
+```
+  ╔═══════════════════════════════════════════════════════╗
+  ║                                                       ║
+  ║   "Build in silence, let the commits speak."          ║
+  ║                                       — mek090        ║
+  ║                                                       ║
+  ╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
