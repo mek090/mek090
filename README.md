@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
 
-<img src="./assets/anya_banner.png" width="100%" alt="mek090 Anya Banner"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png" width="100%" alt="mek090 Anya Banner"/>
 
 <br>
 
@@ -28,11 +28,11 @@
 
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Loading+dev+modules...+%E2%9C%93;%F0%9F%91%BE+Welcome+to+mek090's+terminal!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Loading+dev+modules...+%E2%9C%93;%F0%9F%91%BE+Welcome+to+mek090's+terminal!)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════ ANYA GIF ═══════════════════════ -->
 
-<img src="./assets/anya_heh.gif" width="180" alt="Anya Heh"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="180" alt="Anya Heh"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-## <img src="./assets/anya_excited.gif" width="40"/> &nbsp; `$ whoami` &nbsp; <img src="./assets/anya_excited.gif" width="40"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="40"/> &nbsp; `$ whoami` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="40"/>
 
 </div>
 
@@ -126,7 +126,7 @@ class Developer {
 
 <div align="center">
 
-## 🚀 `$ ls ./tech-stack` &nbsp; <img src="./assets/anya_peanuts.gif" width="35"/>
+## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
 
 <br>
 
@@ -194,7 +194,7 @@ class Developer {
 
 <div align="center">
 
-## <img src="./assets/anya_smile.gif" width="35"/> &nbsp; `$ tree ./projects` &nbsp; <img src="./assets/anya_smile.gif" width="35"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
 
 </div>
 
@@ -276,7 +276,7 @@ class Developer {
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; <img src="./assets/anya_peanuts.gif" width="30"/>
+## 📊 `$ neofetch --stats` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="30"/>
 
 <br>
 
@@ -305,7 +305,7 @@ class Developer {
 
 <!-- Trophy -->
 <a href="https://github.com/mek090">
-  <img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 </a>
 
 <br><br>
@@ -326,9 +326,9 @@ class Developer {
 ## 🐍 `$ ./snake --eat-contributions`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contributions" src="https://github.com/mek090/mek090/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > 🥜 _Push this repo & run the "Generate Snake Animation" workflow in Actions tab!_
@@ -341,7 +341,7 @@ class Developer {
 
 <div align="center">
 
-## <img src="./assets/anya_heh.gif" width="35"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="./assets/anya_heh.gif" width="35"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
 
 <br>
 
@@ -359,7 +359,7 @@ class Developer {
 
 <div align="center">
 
-## <img src="./assets/anya_smile.gif" width="35"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="./assets/anya_smile.gif" width="35"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="35"/>
 
 <br>
 
@@ -402,7 +402,7 @@ class Developer {
 
 <div align="center">
 
-<img src="./assets/anya_excited.gif" width="80" alt="Anya Bye Bye"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_heh.gif" width="80" alt="Anya Bye Bye"/>
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
