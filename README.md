@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ SAKURA FALLING ═══════════════════════ -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M6S50yS2Bv26o/giphy.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
 </div>
 
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
