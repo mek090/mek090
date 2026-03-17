@@ -6,17 +6,23 @@
 <!-- ══════════════ ANIMATED HEADER ══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A5%9C%20Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!&descAlignY=62&descSize=22&descColor=ffb7c5" width="100%"/>
 
+<!-- ══════════════ SAKURA PETALS ══════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover;"/>
+</div>
+
+<!-- ══════════════ ANYA BANNER ══════════════ -->
+<div align="center">
+<a href="https://github.com/mek090">
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px;"/>
+</a>
+</div>
+
 <!-- ══════════════ ANYA GIF GREETING ══════════════ -->
 <div align="center">
 <br>
 
-<img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="120"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="120"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="120"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="120"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="160" alt="Anya Waku Waku"/>
 
 <br><br>
 
@@ -63,7 +69,7 @@
 
 <div align="center">
 
-## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="42"/> &nbsp; `$ whoami` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="42"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="42"/> &nbsp; `$ whoami` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="42"/>
 
 </div>
 
@@ -143,7 +149,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🎯 `$ git status --active` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## 🎯 `$ git status --active` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 <br>
 
@@ -165,7 +171,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 <br>
 
@@ -240,7 +246,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 </div>
 
@@ -251,7 +257,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🏢_Enterprise_Systems-e91e8c?style=for-the-badge" />
 <br><br>
-<img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="90"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
 <br><br>
 
 **📅 Meeting Room Booking**<br>
@@ -290,7 +296,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🌐_Personal_Projects-ff6bc1?style=for-the-badge" />
 <br><br>
-<img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="90"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
 <br><br>
 
 **🗺️ Buriram Travel Guide**<br>
@@ -314,7 +320,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff4757?style=for-the-badge" />
 <br><br>
-<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="90"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
 <br><br>
 
 **🏴‍☠️ CTF Challenges**<br>
@@ -346,7 +352,7 @@ export default new Developer();
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="40"/>
+## 📊 `$ neofetch --stats` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 <br>
 
@@ -400,7 +406,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🐍 `$ ./snake --eat-contributions` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/>
+## 🐍 `$ ./snake --eat-contributions` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
@@ -419,7 +425,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 <br>
 
@@ -473,7 +479,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
 
 <br>
 
@@ -529,7 +535,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🌸 `$ ping mek090` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="38"/>
+## 🌸 `$ ping mek090` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
 
 <br>
 
@@ -556,7 +562,7 @@ export default new Developer();
 
 <div align="center">
 
-## 📈 `$ uptime` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/>
+## 📈 `$ uptime` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
 
 <br>
 
@@ -576,7 +582,7 @@ export default new Developer();
 
 <div align="center">
 
-<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="100" alt="Anya Bye Bye"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="100" alt="Anya Bye Bye"/>
 
 <br>
 
