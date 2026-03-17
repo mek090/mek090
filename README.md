@@ -257,7 +257,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🏢_Enterprise_Systems-e91e8c?style=for-the-badge" />
 <br><br>
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
+<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
 <br><br>
 
 **📅 Meeting Room Booking**<br>
