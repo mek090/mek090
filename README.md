@@ -33,13 +33,22 @@
 
 <br><br>
 
-<!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
+<!-- ═══════════════════════ TYPING SVG + ANYA GIF ═══════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Loading+dev+modules...+%E2%9C%93;%F0%9F%91%BE+Welcome+to+mek090's+terminal!)](https://git.io/typing-svg)
+<table border="0" cellpadding="12" align="center">
+<tr>
+<td align="center" width="65%">
 
-<!-- ═══════════════════════ ANYA GIF ═══════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=120&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Loading+dev+modules...+%E2%9C%93;%F0%9F%91%BE+Welcome+to+mek090's+terminal!)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="180" alt="Anya Heh"/>
+</td>
+<td align="center" width="35%">
+
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="175" alt="Anya Heh"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -214,21 +223,22 @@ class Developer {
 
 <br><br>
 
-**📅 Meeting Room Booking**
+**📅 Meeting Room Booking**<br>
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 <br>
-`🔧 .NET Core` `🖼️ Vue 3` `📘 TypeScript`
 
-─────────────────
+**🚗 Vehicle Booking**<br>
+![Full-Stack](https://img.shields.io/badge/Full--Stack-e91e8c?style=flat-square)
+![DB](https://img.shields.io/badge/DB_Design-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**🚗 Vehicle Booking**
 <br>
-`🔧 Full-Stack` `🗄️ DB Design`
 
-─────────────────
-
-**⚠️ Risk Management**
-<br>
-`📦 Feature Modules` `📋 Master Data`
+**⚠️ Risk Management**<br>
+![Modules](https://img.shields.io/badge/Feature_Modules-ff6bc1?style=flat-square)
+![Master](https://img.shields.io/badge/Master_Data-ffb7c5?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -237,19 +247,15 @@ class Developer {
 
 <br><br>
 
-**🗺️ Buriram Travel Guide**
-<br>
-`⚡ Next.js` `🟢 Supabase` `🤖 Gemini AI`
+**🗺️ Buriram Travel Guide**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-─────────────────
+<br>
 
-🤖 AI Chatbot
-<br>
-🌦️ Weather-based Suggestions
-<br>
-⭐ Review System
-<br>
-🗺️ Interactive Map
+🤖 AI Chatbot &nbsp;•&nbsp; 🌦️ Weather<br>
+⭐ Reviews &nbsp;•&nbsp; 🗺️ Interactive Map
 
 </td>
 <td align="center" width="33%">
@@ -258,19 +264,13 @@ class Developer {
 
 <br><br>
 
-**🏴‍☠️ CTF Challenges**
-<br>
-`🛡️ NCSA AI CTF`
+**🏴‍☠️ CTF Challenges**<br>
+![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-ff4757?style=flat-square&logo=hackthebox&logoColor=white)
 
-─────────────────
+<br>
 
-🔍 Vulnerability Research
-<br>
-🧠 Reverse Engineering
-<br>
-🛡️ Exploit Development
-<br>
-📡 Network Analysis
+🔍 Vuln Research &nbsp;•&nbsp; 🧠 Rev Eng<br>
+🛡️ Exploit Dev &nbsp;•&nbsp; 📡 Network
 
 </td>
 </tr>
@@ -287,39 +287,51 @@ class Developer {
 
 <br>
 
+<!-- Row 1: GitHub Stats + Top Languages -->
+<table border="0" cellpadding="6" align="center">
+<tr>
+<td align="center">
+  <a href="https://github.com/mek090">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5"/>
+      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5" alt="GitHub Stats"/>
+    </picture>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/mek090">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea"/>
+      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
+    </picture>
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Row 2: Streak Stats + Trophy side by side -->
+<table border="0" cellpadding="6" align="center">
+<tr>
+<td align="center">
+  <a href="https://github.com/mek090">
+    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakLabel=ffb7c5&sideLabels=eaeaea&dates=888888&currStreakNum=ffb7c5&sideNums=eaeaea" height="165" alt="GitHub Streak"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/mek090">
+    <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="165" alt="Trophies"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Row 3: Activity Graph (full width) -->
 <a href="https://github.com/mek090">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5" alt="GitHub Stats"/>
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/mek090">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
-  </picture>
-</a>
-
-<br><br>
-
-<!-- Streak Stats (using demolab which is more reliable) -->
-<a href="https://github.com/mek090">
-  <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakLabel=ffb7c5&sideLabels=eaeaea&dates=888888&currStreakNum=ffb7c5&sideNums=eaeaea" alt="GitHub Streak"/>
-</a>
-
-<br><br>
-
-<!-- Trophy -->
-<a href="https://github.com/mek090">
-  <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
-</a>
-
-<br><br>
-
-<!-- Activity Graph -->
-<a href="https://github.com/mek090">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
