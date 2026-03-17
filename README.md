@@ -1,34 +1,23 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              🥜  mek090  —  GitHub Profile README  🥜            ║ -->
-<!-- ║             Anya Forger Theme  ·  Spy × Family Edition           ║ -->
+<!-- ║             ⚡ mek090  —  GitHub Profile README  ⚡              ║ -->
+<!-- ║          Wuthering Waves Theme  ·  Resonator Edition             ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A5%9C%20Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!&descAlignY=62&descSize=22&descColor=ffb7c5" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0c1929,60:00695c,100:00e5ff&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20Resonator%20%7C%20Wuthering%20Waves&descAlignY=62&descSize=22&descColor=80deea" width="100%"/>
 
-<!-- ══════════════ SAKURA PETALS ══════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover;"/>
-</div>
-
-<!-- ══════════════ ANYA BANNER ══════════════ -->
+<!-- ══════════════ BANNER ══════════════ -->
 <div align="center">
 <a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuthering_banner.png" width="100%" alt="mek090 Wuthering Waves Banner" style="border-radius: 15px;"/>
 </a>
 </div>
 
-<!-- ══════════════ ANYA GIF GREETING ══════════════ -->
+<!-- ══════════════ TYPING SVG ══════════════ -->
 <div align="center">
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="160" alt="Anya Waku Waku"/> -->
-
-<br><br>
-
-<!-- ══════════════ TYPING SVG ══════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=%F0%9F%A5%9C+Waku+Waku!+System+is+ONLINE!;%F0%9F%92%BB+mek090.exe+has+entered+the+chat;%F0%9F%8C%99+Dark+Mode+Only+%E2%80%94+No+Exceptions;%F0%9F%94%90+CTF+%7C+AI+%7C+Full-Stack+%7C+%E2%98%95;%F0%9F%9A%80+Build+in+silence%2C+let+commits+speak;%E2%9C%A8+Anya+can+read+your+mind!+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=⚡+Resonance+System+ONLINE!;💻+mek090.exe+has+entered+the+Solaris;🌙+Dark+Mode+Only+—+No+Exceptions;🔐+CTF+%7C+AI+%7C+Full-Stack+%7C+☕;🚀+Build+in+silence%2C+let+commits+echo;🎮+Wuthering+Waves+Player+%7C+Rover+Main)](https://git.io/typing-svg)
 
 <br>
 
@@ -52,16 +41,16 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=00897b&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=00acc1&label=FOLLOWERS&logo=github)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=TOTAL+STARS&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=00e5ff&label=TOTAL+STARS&logo=github)
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║          $ whoami                 ║ -->
@@ -69,7 +58,7 @@
 
 <div align="center">
 
-## 🥜 `$ whoami` 🌸
+## ⚡ `$ whoami` 🌊
 
 </div>
 
@@ -78,14 +67,14 @@
 <td width="50%" valign="top">
 
 ```yaml
-# 🥜 identity.yaml
+# ⚡ identity.yaml
 
 name: mek090
 alias: "Rittipon A."
 role: Full-Stack Developer
 location: "🇹🇭 Thailand"
 status: "always building something 🔧"
-spirit_animal: "Anya Forger 🥜"
+spirit: "Rover — Resonator ⚡"
 vibe: "Dark mode ONLY 🌙"
 
 currently_working_on:
@@ -101,22 +90,22 @@ currently_learning:
 fun_fact: >
   I think in code and dream in dark mode.
   Coffee is my compile fuel. ☕
-  My debug tool? Anya's mind reading 🧠
+  My resonance? Full-Stack development ⚡
 
-motto: "Build in silence, let the commits speak."
+motto: "Build in silence, let the commits echo."
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```typescript
-// 🥜 developer.ts — waku waku!
+// ⚡ resonator.ts — wuthering mode!
 
-class Developer {
+class Resonator {
   readonly name     = "mek090";
   readonly role     = "Full-Stack Dev";
   readonly location = "🇹🇭 Thailand";
-  readonly spirit   = "Anya Forger 🥜";
+  readonly spirit   = "Rover ⚡";
   readonly vibe     = "Dark mode only 🌙";
 
   skills = {
@@ -129,11 +118,11 @@ class Developer {
     ai        : ["Gemini API","Prompt Eng."],
   };
 
-  wakuWaku = () => "✨ Excited about building! ✨";
-  motto    = () => "Build in silence, let commits speak.";
+  resonate = () => "⚡ Echoing through the code! ⚡";
+  motto    = () => "Build in silence, let commits echo.";
 }
 
-export default new Developer();
+export default new Resonator();
 ```
 
 </td>
@@ -141,7 +130,7 @@ export default new Developer();
 </table>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ git status --active        ║ -->
@@ -155,15 +144,15 @@ export default new Developer();
 
 | 🚧 Project | ⚡ Stack | 📌 Status |
 |:---|:---:|:---:|
-| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/▶_In_Progress-e91e8c?style=flat-square&logoColor=white) |
-| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` `EF Core` | ![](https://img.shields.io/badge/▶_Building-ff6bc1?style=flat-square&logoColor=white) |
-| ⚠️ **Risk Management Platform** | `Modular` `MediatR` `Master Data` | ![](https://img.shields.io/badge/▶_Active-c45ab3?style=flat-square&logoColor=white) |
+| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/▶_In_Progress-00897b?style=flat-square&logoColor=white) |
+| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` `EF Core` | ![](https://img.shields.io/badge/▶_Building-00acc1?style=flat-square&logoColor=white) |
+| ⚠️ **Risk Management Platform** | `Modular` `MediatR` `Master Data` | ![](https://img.shields.io/badge/▶_Active-00695c?style=flat-square&logoColor=white) |
 | 🗺️ **Buriram Travel Guide** | `Next.js` `Supabase` `Gemini AI` | ![](https://img.shields.io/badge/✓_Live-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ ls ./tech-stack           ║ -->
@@ -201,9 +190,9 @@ export default new Developer();
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Prompt_Eng.-ff6bc1?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Eng.-00acc1?style=for-the-badge&logo=openai&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CTF-ff4757?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/CTF-00e5ff?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
 
 <br>
@@ -216,20 +205,20 @@ export default new Developer();
 
 **🎨 Frontend Expertise**
 
-![Vue](https://img.shields.io/badge/Vue_3-▓▓▓▓▓▓▓▓▓░-42b883?style=flat-square&logo=vue.js&logoColor=white&labelColor=1a1a2e) `90%`
-![React](https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓░░-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e) `80%`
-![TypeScript](https://img.shields.io/badge/TypeScript-▓▓▓▓▓▓▓▓▓░-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e) `90%`
-![Tailwind](https://img.shields.io/badge/Tailwind-▓▓▓▓▓▓▓▓░░-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e) `85%`
+![Vue](https://img.shields.io/badge/Vue_3-▓▓▓▓▓▓▓▓▓░-42b883?style=flat-square&logo=vue.js&logoColor=white&labelColor=0a0a1a) `90%`
+![React](https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓░░-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0a0a1a) `80%`
+![TypeScript](https://img.shields.io/badge/TypeScript-▓▓▓▓▓▓▓▓▓░-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0a0a1a) `90%`
+![Tailwind](https://img.shields.io/badge/Tailwind-▓▓▓▓▓▓▓▓░░-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0a0a1a) `85%`
 
 </td>
 <td width="50%" align="center">
 
 **⚙️ Backend Expertise**
 
-![.NET](https://img.shields.io/badge/.NET_Core-▓▓▓▓▓▓▓▓▓░-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e) `90%`
-![C#](https://img.shields.io/badge/C%23-▓▓▓▓▓▓▓▓▓░-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1a2e) `90%`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-▓▓▓▓▓▓▓▓░░-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e) `80%`
-![Docker](https://img.shields.io/badge/Docker-▓▓▓▓▓▓▓░░░-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e) `70%`
+![.NET](https://img.shields.io/badge/.NET_Core-▓▓▓▓▓▓▓▓▓░-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0a1a) `90%`
+![C#](https://img.shields.io/badge/C%23-▓▓▓▓▓▓▓▓▓░-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=0a0a1a) `90%`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-▓▓▓▓▓▓▓▓░░-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0a1a) `80%`
+![Docker](https://img.shields.io/badge/Docker-▓▓▓▓▓▓▓░░░-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a1a) `70%`
 
 </td>
 </tr>
@@ -238,7 +227,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ tree ./projects           ║ -->
@@ -246,7 +235,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🥜 `$ tree ./projects` 🥜
+## ⚡ `$ tree ./projects` ⚡
 
 </div>
 
@@ -255,9 +244,7 @@ export default new Developer();
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🏢_Enterprise_Systems-e91e8c?style=for-the-badge" />
-<br><br>
-<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
+<img src="https://img.shields.io/badge/🏢_Enterprise_Systems-00695c?style=for-the-badge" />
 <br><br>
 
 **📅 Meeting Room Booking**<br>
@@ -277,7 +264,7 @@ export default new Developer();
 
 <br>
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack-e91e8c?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-00897b?style=flat-square)
 ![EF](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -288,15 +275,13 @@ export default new Developer();
 
 <br>
 
-![Modules](https://img.shields.io/badge/Feature_Modules-ff6bc1?style=flat-square)
-![MediatR](https://img.shields.io/badge/MediatR-ff4757?style=flat-square)
+![Modules](https://img.shields.io/badge/Feature_Modules-00acc1?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-00e5ff?style=flat-square&logoColor=black)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌐_Personal_Projects-ff6bc1?style=for-the-badge" />
-<br><br>
-<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
+<img src="https://img.shields.io/badge/🌐_Personal_Projects-00acc1?style=for-the-badge" />
 <br><br>
 
 **🗺️ Buriram Travel Guide**<br>
@@ -318,9 +303,7 @@ export default new Developer();
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff4757?style=for-the-badge" />
-<br><br>
-<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
+<img src="https://img.shields.io/badge/🔐_Security_&_CTF-00e5ff?style=for-the-badge&logoColor=black" />
 <br><br>
 
 **🏴‍☠️ CTF Challenges**<br>
@@ -328,9 +311,9 @@ export default new Developer();
 
 <br>
 
-![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-ff4757?style=flat-square&logo=hackthebox&logoColor=white)
-![Web](https://img.shields.io/badge/Web_Exploit-e91e8c?style=flat-square)
-![Rev](https://img.shields.io/badge/Rev_Eng-ff6bc1?style=flat-square)
+![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-00e5ff?style=flat-square&logoColor=black&logo=hackthebox)
+![Web](https://img.shields.io/badge/Web_Exploit-00897b?style=flat-square)
+![Rev](https://img.shields.io/badge/Rev_Eng-00acc1?style=flat-square)
 
 <br>
 
@@ -344,7 +327,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ neofetch --stats           ║ -->
@@ -352,7 +335,7 @@ export default new Developer();
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` 🌸
+## 📊 `$ neofetch --stats` 🌊
 
 <br>
 
@@ -360,12 +343,12 @@ export default new Developer();
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a1a&title_color=00e5ff&icon_color=00acc1&text_color=eaeaea&ring_color=00e5ff&include_all_commits=true" alt="GitHub Stats"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d1a&title_color=ff6bc1&text_color=eaeaea&hide=html" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a1a&title_color=00e5ff&text_color=eaeaea&hide=html" alt="Top Languages"/>
   </a>
 </td>
 </tr>
@@ -377,12 +360,12 @@ export default new Developer();
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0d0d1a&stroke=ff6bc1&ring=e91e8c&fire=ff4757&currStreakLabel=ff6bc1&sideLabels=eaeaea&dates=888888&currStreakNum=ff6bc1&sideNums=eaeaea" height="180" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0a0a1a&stroke=00e5ff&ring=00acc1&fire=00e676&currStreakLabel=00e5ff&sideLabels=eaeaea&dates=888888&currStreakNum=00e5ff&sideNums=eaeaea" height="180" alt="GitHub Streak"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="180" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=mek090&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="180" alt="Trophies"/>
   </a>
 </td>
 </tr>
@@ -392,13 +375,13 @@ export default new Developer();
 
 <!-- Activity Graph -->
 <a href="https://github.com/mek090">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0d0d1a&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0a0a1a&color=00e5ff&line=00acc1&point=00e676&area_color=00695c&area=true&hide_border=true&custom_title=⚡%20Resonance%20Contribution%20Frequency..." width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║    $ ./snake --eat-contributions  ║ -->
@@ -417,7 +400,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ cat ./beyond-code          ║ -->
@@ -425,7 +408,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🎌 `$ cat ./beyond-code`
+## 🎮 `$ cat ./beyond-code`
 
 <br>
 
@@ -445,7 +428,7 @@ export default new Developer();
 <td align="center">CTF Challenges</td>
 <td align="center">Gemini API</td>
 <td align="center">Space</td>
-<td align="center">Mobile Legends</td>
+<td align="center">Wuthering Waves</td>
 <td align="center">PC Components</td>
 <td align="center">Spy × Family</td>
 </tr>
@@ -453,7 +436,7 @@ export default new Developer();
 <td align="center">NCSA AI CTF</td>
 <td align="center">Prompt Eng.</td>
 <td align="center">Astronomy</td>
-<td align="center">Wuthering Waves</td>
+<td align="center">Mobile Legends</td>
 <td align="center">Custom Builds</td>
 <td align="center">Attack on Titan</td>
 </tr>
@@ -471,7 +454,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║     $ fortune | cowsay            ║ -->
@@ -479,25 +462,24 @@ export default new Developer();
 
 <div align="center">
 
-## 🥜 `$ fortune | cowsay`
+## ⚡ `$ fortune | cowsay`
 
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20in%20silence%2C%20let%20the%20commits%20speak.&author=mek090%20%F0%9F%A5%9C)](https://github.com/mek090)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Build%20in%20silence%2C%20let%20the%20commits%20echo.&author=mek090%20⚡)](https://github.com/mek090)
 
 <br>
 
 ```
-          🥜   Anya has something to say...   🥜
+          ⚡   Resonance transmission detected...   ⚡
 
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║   "Build in silence, let the commits speak."                 ║
-  ║                                           — mek090  🥜       ║
+  ║   "Build in silence, let the commits echo."                  ║
+  ║                                           — mek090  ⚡       ║
   ║                                                              ║
-  ║   "Waku Waku! Code is like peanuts...                        ║
-  ║    you can never have just one commit!"                      ║
-  ║                                           — Anya  🥜         ║
+  ║   "Every line of code resonates through the Solaris..."      ║
+  ║                                           — Rover  🌊        ║
   ║                                                              ║
   ║   "The best debugger is a good night's sleep and coffee."    ║
   ║                                           — a developer ☕    ║
@@ -508,7 +490,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ now-playing             ║ -->
@@ -520,14 +502,14 @@ export default new Developer();
 
 <br>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Coding%20lo--fi%20%26%20anime%20OST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d1a)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Wuthering%20Waves%20OST%20%26%20lo--fi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0a0a1a)](https://open.spotify.com)
 
-<sub>🎌 Currently vibing to: anime OST + lo-fi beats while coding 🌙</sub>
+<sub>🎮 Currently vibing to: Wuthering Waves OST + lo-fi beats while coding 🌙</sub>
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ ping mek090            ║ -->
@@ -535,13 +517,13 @@ export default new Developer();
 
 <div align="center">
 
-## 🌸 `$ ping mek090`
+## 🌊 `$ ping mek090`
 
 <br>
 
 > 💬 Open to collaboration, exciting projects, and CTF teams!
 >
-> 🥜 _Waku Waku! Always excited to connect with fellow devs!_
+> ⚡ _Always ready to resonate with fellow devs!_
 
 <br>
 
@@ -554,7 +536,7 @@ export default new Developer();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║           $ uptime                ║ -->
@@ -566,11 +548,11 @@ export default new Developer();
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=00897b&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS)
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=00acc1&label=FOLLOWERS)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=TOTAL+STARS)
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=00e5ff&label=TOTAL+STARS)
 
 </div>
 
@@ -578,22 +560,22 @@ export default new Developer();
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6bc1,50:e91e8c,100:0d0d1a&height=180&section=footer&text=Waku%20Waku!%20🥜&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00acc1,100:0a0a1a&height=180&section=footer&text=Resonance%20Out%20⚡&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="100" alt="Anya Bye Bye"/> -->
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_avatar.png" width="100" alt="Resonator Avatar" style="border-radius: 50%;"/>
 
 <br>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🥜 terminal session ended                                     ║
-║  🥜 anya says: see you next time!  (ᵔᴥᵔ)                      ║
-║  🥜 waku waku~  ✨  thanks for visiting!                       ║
+║  ⚡ resonance session ended                                    ║
+║  🌊 rover says: until next echo...  ⸸                         ║
+║  ⚡ resonance out~  ✨  thanks for visiting!                   ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-_⚡ Crafted with 🥜 & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
+_⚡ Crafted with echoes & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
 
 </div>
