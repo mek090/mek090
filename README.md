@@ -22,7 +22,7 @@
 <div align="center">
 <br>
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="160" alt="Anya Waku Waku"/>
+<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="160" alt="Anya Waku Waku"/> -->
 
 <br><br>
 
@@ -296,7 +296,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🌐_Personal_Projects-ff6bc1?style=for-the-badge" />
 <br><br>
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
+<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
 <br><br>
 
 **🗺️ Buriram Travel Guide**<br>
@@ -320,7 +320,7 @@ export default new Developer();
 
 <img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff4757?style=for-the-badge" />
 <br><br>
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/>
+<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="90"/> -->
 <br><br>
 
 **🏴‍☠️ CTF Challenges**<br>
@@ -582,7 +582,7 @@ export default new Developer();
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="100" alt="Anya Bye Bye"/>
+<!-- <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="100" alt="Anya Bye Bye"/> -->
 
 <br>
 
