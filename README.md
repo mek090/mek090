@@ -1,15 +1,15 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║             ⚡ mek090  —  GitHub Profile README  ⚡              ║ -->
-<!-- ║          Wuthering Waves Theme  ·  Resonator Edition             ║ -->
+<!-- ║            ✦ mek090  —  GitHub Profile README  ✦                ║ -->
+<!-- ║       Wuthering Waves · Aemeath Theme · Fusion Resonator        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0c1929,60:00695c,100:00e5ff&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20Resonator%20%7C%20Wuthering%20Waves&descAlignY=62&descSize=22&descColor=80deea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:2d0a1e,60:880e4f,100:ff1493&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20%7C%20Fusion%20Resonator%20%7C%20Aemeath%20Main&descAlignY=62&descSize=20&descColor=f8bbd0" width="100%"/>
 
 <!-- ══════════════ BANNER ══════════════ -->
 <div align="center">
 <a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuthering_banner.png" width="100%" alt="mek090 Wuthering Waves Banner" style="border-radius: 15px;"/>
+  <img src="https://i.imgur.com/83pZ59Y.jpeg" width="100%" alt="mek090 Aemeath Banner" style="border-radius: 15px;"/>
 </a>
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=⚡+Resonance+System+ONLINE!;💻+mek090.exe+has+entered+the+Solaris;🌙+Dark+Mode+Only+—+No+Exceptions;🔐+CTF+%7C+AI+%7C+Full-Stack+%7C+☕;🚀+Build+in+silence%2C+let+commits+echo;🎮+Wuthering+Waves+Player+%7C+Rover+Main)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=✦+Fusion+Resonance+System+ONLINE!;💻+mek090.exe+has+entered+Huanglong;🌙+Dark+Mode+Only+—+No+Exceptions;🔐+CTF+%7C+AI+%7C+Full-Stack+%7C+☕;⚔️+Aemeath+Main+%7C+Tune+Rupture!;🚀+Build+in+silence%2C+let+commits+echo)](https://git.io/typing-svg)
 
 <br>
 
@@ -41,16 +41,16 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=00897b&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=c2185b&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=00acc1&label=FOLLOWERS&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=e91e63&label=FOLLOWERS&logo=github)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=00e5ff&label=TOTAL+STARS&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff1493&label=TOTAL+STARS&logo=github)
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║          $ whoami                 ║ -->
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## ⚡ `$ whoami` 🌊
+## ✦ `$ whoami` ⚔️
 
 </div>
 
@@ -67,14 +67,14 @@
 <td width="50%" valign="top">
 
 ```yaml
-# ⚡ identity.yaml
+# ✦ identity.yaml
 
 name: mek090
 alias: "Rittipon A."
 role: Full-Stack Developer
 location: "🇹🇭 Thailand"
 status: "always building something 🔧"
-spirit: "Rover — Resonator ⚡"
+spirit: "Aemeath — Fusion Resonator ✦"
 vibe: "Dark mode ONLY 🌙"
 
 currently_working_on:
@@ -90,7 +90,7 @@ currently_learning:
 fun_fact: >
   I think in code and dream in dark mode.
   Coffee is my compile fuel. ☕
-  My resonance? Full-Stack development ⚡
+  My resonance? Fusion — just like Aemeath ✦
 
 motto: "Build in silence, let the commits echo."
 ```
@@ -99,13 +99,14 @@ motto: "Build in silence, let the commits echo."
 <td width="50%" valign="top">
 
 ```typescript
-// ⚡ resonator.ts — wuthering mode!
+// ✦ resonator.ts — fusion mode!
 
-class Resonator {
+class FusionResonator {
   readonly name     = "mek090";
   readonly role     = "Full-Stack Dev";
   readonly location = "🇹🇭 Thailand";
-  readonly spirit   = "Rover ⚡";
+  readonly spirit   = "Aemeath ✦";
+  readonly element  = "Fusion 🔥";
   readonly vibe     = "Dark mode only 🌙";
 
   skills = {
@@ -118,11 +119,12 @@ class Resonator {
     ai        : ["Gemini API","Prompt Eng."],
   };
 
-  resonate = () => "⚡ Echoing through the code! ⚡";
-  motto    = () => "Build in silence, let commits echo.";
+  tuneRupture = () => "✦ Single-target burst! ✦";
+  fusionBurst = () => "🔥 AoE resonance! 🔥";
+  motto       = () => "Build in silence, let commits echo.";
 }
 
-export default new Resonator();
+export default new FusionResonator();
 ```
 
 </td>
@@ -130,7 +132,7 @@ export default new Resonator();
 </table>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ git status --active        ║ -->
@@ -144,15 +146,15 @@ export default new Resonator();
 
 | 🚧 Project | ⚡ Stack | 📌 Status |
 |:---|:---:|:---:|
-| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/▶_In_Progress-00897b?style=flat-square&logoColor=white) |
-| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` `EF Core` | ![](https://img.shields.io/badge/▶_Building-00acc1?style=flat-square&logoColor=white) |
-| ⚠️ **Risk Management Platform** | `Modular` `MediatR` `Master Data` | ![](https://img.shields.io/badge/▶_Active-00695c?style=flat-square&logoColor=white) |
+| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/▶_In_Progress-c2185b?style=flat-square&logoColor=white) |
+| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` `EF Core` | ![](https://img.shields.io/badge/▶_Building-e91e63?style=flat-square&logoColor=white) |
+| ⚠️ **Risk Management Platform** | `Modular` `MediatR` `Master Data` | ![](https://img.shields.io/badge/▶_Active-880e4f?style=flat-square&logoColor=white) |
 | 🗺️ **Buriram Travel Guide** | `Next.js` `Supabase` `Gemini AI` | ![](https://img.shields.io/badge/✓_Live-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ ls ./tech-stack           ║ -->
@@ -190,9 +192,9 @@ export default new Resonator();
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Prompt_Eng.-00acc1?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Eng.-e91e63?style=for-the-badge&logo=openai&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CTF-00e5ff?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/CTF-ff1493?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 <br>
@@ -205,20 +207,20 @@ export default new Resonator();
 
 **🎨 Frontend Expertise**
 
-![Vue](https://img.shields.io/badge/Vue_3-▓▓▓▓▓▓▓▓▓░-42b883?style=flat-square&logo=vue.js&logoColor=white&labelColor=0a0a1a) `90%`
-![React](https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓░░-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0a0a1a) `80%`
-![TypeScript](https://img.shields.io/badge/TypeScript-▓▓▓▓▓▓▓▓▓░-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0a0a1a) `90%`
-![Tailwind](https://img.shields.io/badge/Tailwind-▓▓▓▓▓▓▓▓░░-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0a0a1a) `85%`
+![Vue](https://img.shields.io/badge/Vue_3-▓▓▓▓▓▓▓▓▓░-42b883?style=flat-square&logo=vue.js&logoColor=white&labelColor=0d0d1a) `90%`
+![React](https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓░░-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0d0d1a) `80%`
+![TypeScript](https://img.shields.io/badge/TypeScript-▓▓▓▓▓▓▓▓▓░-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d0d1a) `90%`
+![Tailwind](https://img.shields.io/badge/Tailwind-▓▓▓▓▓▓▓▓░░-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d0d1a) `85%`
 
 </td>
 <td width="50%" align="center">
 
 **⚙️ Backend Expertise**
 
-![.NET](https://img.shields.io/badge/.NET_Core-▓▓▓▓▓▓▓▓▓░-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0a1a) `90%`
-![C#](https://img.shields.io/badge/C%23-▓▓▓▓▓▓▓▓▓░-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=0a0a1a) `90%`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-▓▓▓▓▓▓▓▓░░-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0a1a) `80%`
-![Docker](https://img.shields.io/badge/Docker-▓▓▓▓▓▓▓░░░-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a1a) `70%`
+![.NET](https://img.shields.io/badge/.NET_Core-▓▓▓▓▓▓▓▓▓░-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d0d1a) `90%`
+![C#](https://img.shields.io/badge/C%23-▓▓▓▓▓▓▓▓▓░-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=0d0d1a) `90%`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-▓▓▓▓▓▓▓▓░░-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d0d1a) `80%`
+![Docker](https://img.shields.io/badge/Docker-▓▓▓▓▓▓▓░░░-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d0d1a) `70%`
 
 </td>
 </tr>
@@ -227,7 +229,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ tree ./projects           ║ -->
@@ -235,7 +237,7 @@ export default new Resonator();
 
 <div align="center">
 
-## ⚡ `$ tree ./projects` ⚡
+## ✦ `$ tree ./projects` ✦
 
 </div>
 
@@ -244,7 +246,7 @@ export default new Resonator();
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🏢_Enterprise_Systems-00695c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢_Enterprise_Systems-880e4f?style=for-the-badge" />
 <br><br>
 
 **📅 Meeting Room Booking**<br>
@@ -264,7 +266,7 @@ export default new Resonator();
 
 <br>
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack-00897b?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-c2185b?style=flat-square)
 ![EF](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -275,13 +277,13 @@ export default new Resonator();
 
 <br>
 
-![Modules](https://img.shields.io/badge/Feature_Modules-00acc1?style=flat-square)
-![MediatR](https://img.shields.io/badge/MediatR-00e5ff?style=flat-square&logoColor=black)
+![Modules](https://img.shields.io/badge/Feature_Modules-e91e63?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-ff1493?style=flat-square)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌐_Personal_Projects-00acc1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Personal_Projects-e91e63?style=for-the-badge" />
 <br><br>
 
 **🗺️ Buriram Travel Guide**<br>
@@ -303,7 +305,7 @@ export default new Resonator();
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐_Security_&_CTF-00e5ff?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff1493?style=for-the-badge" />
 <br><br>
 
 **🏴‍☠️ CTF Challenges**<br>
@@ -311,9 +313,9 @@ export default new Resonator();
 
 <br>
 
-![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-00e5ff?style=flat-square&logoColor=black&logo=hackthebox)
-![Web](https://img.shields.io/badge/Web_Exploit-00897b?style=flat-square)
-![Rev](https://img.shields.io/badge/Rev_Eng-00acc1?style=flat-square)
+![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-ff1493?style=flat-square&logo=hackthebox&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Exploit-c2185b?style=flat-square)
+![Rev](https://img.shields.io/badge/Rev_Eng-e91e63?style=flat-square)
 
 <br>
 
@@ -327,7 +329,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ neofetch --stats           ║ -->
@@ -335,7 +337,7 @@ export default new Resonator();
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` 🌊
+## 📊 `$ neofetch --stats` ✦
 
 <br>
 
@@ -343,12 +345,12 @@ export default new Resonator();
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a1a&title_color=00e5ff&icon_color=00acc1&text_color=eaeaea&ring_color=00e5ff&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=ff1493&icon_color=e91e63&text_color=eaeaea&ring_color=ff1493&include_all_commits=true" alt="GitHub Stats"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a1a&title_color=00e5ff&text_color=eaeaea&hide=html" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d1a&title_color=ff1493&text_color=eaeaea&hide=html" alt="Top Languages"/>
   </a>
 </td>
 </tr>
@@ -360,12 +362,12 @@ export default new Resonator();
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0a0a1a&stroke=00e5ff&ring=00acc1&fire=00e676&currStreakLabel=00e5ff&sideLabels=eaeaea&dates=888888&currStreakNum=00e5ff&sideNums=eaeaea" height="180" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0d0d1a&stroke=ff1493&ring=e91e63&fire=ff69b4&currStreakLabel=ff1493&sideLabels=eaeaea&dates=888888&currStreakNum=ff1493&sideNums=eaeaea" height="180" alt="GitHub Streak"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://github-trophies.vercel.app/?username=mek090&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="180" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="180" alt="Trophies"/>
   </a>
 </td>
 </tr>
@@ -375,13 +377,13 @@ export default new Resonator();
 
 <!-- Activity Graph -->
 <a href="https://github.com/mek090">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0a0a1a&color=00e5ff&line=00acc1&point=00e676&area_color=00695c&area=true&hide_border=true&custom_title=⚡%20Resonance%20Contribution%20Frequency..." width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0d0d1a&color=ff1493&line=e91e63&point=ff69b4&area_color=880e4f&area=true&hide_border=true&custom_title=✦%20Fusion%20Resonance%20Frequency..." width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║    $ ./snake --eat-contributions  ║ -->
@@ -400,7 +402,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ cat ./beyond-code          ║ -->
@@ -454,7 +456,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║     $ fortune | cowsay            ║ -->
@@ -462,24 +464,25 @@ export default new Resonator();
 
 <div align="center">
 
-## ⚡ `$ fortune | cowsay`
+## ✦ `$ fortune | cowsay`
 
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Build%20in%20silence%2C%20let%20the%20commits%20echo.&author=mek090%20⚡)](https://github.com/mek090)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20in%20silence%2C%20let%20the%20commits%20echo.&author=mek090%20✦)](https://github.com/mek090)
 
 <br>
 
 ```
-          ⚡   Resonance transmission detected...   ⚡
+          ✦   Fusion resonance detected...   ✦
 
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
   ║   "Build in silence, let the commits echo."                  ║
-  ║                                           — mek090  ⚡       ║
+  ║                                           — mek090  ✦       ║
   ║                                                              ║
-  ║   "Every line of code resonates through the Solaris..."      ║
-  ║                                           — Rover  🌊        ║
+  ║   "Tune Rupture or Fusion Burst?                             ║
+  ║    Why not both — just like my code deploys."                ║
+  ║                                           — Aemeath ⚔️       ║
   ║                                                              ║
   ║   "The best debugger is a good night's sleep and coffee."    ║
   ║                                           — a developer ☕    ║
@@ -490,7 +493,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ now-playing             ║ -->
@@ -502,14 +505,14 @@ export default new Resonator();
 
 <br>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Wuthering%20Waves%20OST%20%26%20lo--fi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0a0a1a)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Wuthering%20Waves%20OST%20%26%20lo--fi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d1a)](https://open.spotify.com)
 
-<sub>🎮 Currently vibing to: Wuthering Waves OST + lo-fi beats while coding 🌙</sub>
+<sub>🎮 Currently vibing to: Wuthering Waves OST + Aemeath battle theme while coding 🌙</sub>
 
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ ping mek090            ║ -->
@@ -517,13 +520,13 @@ export default new Resonator();
 
 <div align="center">
 
-## 🌊 `$ ping mek090`
+## ✦ `$ ping mek090`
 
 <br>
 
 > 💬 Open to collaboration, exciting projects, and CTF teams!
 >
-> ⚡ _Always ready to resonate with fellow devs!_
+> ✦ _Always ready to resonate — Fusion element activated!_
 
 <br>
 
@@ -536,7 +539,7 @@ export default new Resonator();
 </div>
 
 <!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_divider.png" width="100%">
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║           $ uptime                ║ -->
@@ -548,11 +551,11 @@ export default new Resonator();
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=00897b&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=c2185b&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=00acc1&label=FOLLOWERS)
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=e91e63&label=FOLLOWERS)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=00e5ff&label=TOTAL+STARS)
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff1493&label=TOTAL+STARS)
 
 </div>
 
@@ -560,22 +563,18 @@ export default new Resonator();
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00acc1,100:0a0a1a&height=180&section=footer&text=Resonance%20Out%20⚡&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:e91e63,100:0d0d1a&height=180&section=footer&text=Resonance%20Out%20✦&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/wuwa_avatar.png" width="100" alt="Resonator Avatar" style="border-radius: 50%;"/>
-
-<br>
-
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  ⚡ resonance session ended                                    ║
-║  🌊 rover says: until next echo...  ⸸                         ║
-║  ⚡ resonance out~  ✨  thanks for visiting!                   ║
+║  ✦ fusion resonance session ended                              ║
+║  ⚔️ aemeath says: until the next echo...                       ║
+║  ✦ resonance out~  ✨  thanks for visiting!                    ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-_⚡ Crafted with echoes & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
+_✦ Crafted with Fusion & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
 
 </div>
