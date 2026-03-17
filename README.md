@@ -1,65 +1,75 @@
-<div align="center">
+<!-- ═══════════════════════ HEADER CAPSULE ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1a2e,70:e91e8c,100:ff6bc1&height=220&section=header&text=mek090&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!%20%F0%9F%A5%9C&descAlignY=60&descSize=20&descColor=ffb7c5" width="100%"/>
 
 <!-- ═══════════════════════ SAKURA FALLING ═══════════════════════ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.7;"/>
 </div>
 
 <!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
 
+<div align="center">
 <a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(255, 183, 197, 0.5);"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 18px;"/>
 </a>
+</div>
 
 <br>
 
-<!-- ═══════════════════════ SOCIAL ICON LINKS ═══════════════════════ -->
+<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 
-<a href="https://www.facebook.com/Rittipon.Aemprakhon">
-  <img height="35" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mke.ritt/">
-  <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.tiktok.com/@mzxei5r">
-  <img height="35" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/mek090">
-  <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-<br><br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Rittipon.Aemprakhon)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mke.ritt/)
+&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@mzxei5r)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mek090)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS&logo=github)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=STARS&logo=github)
+
+</div>
+
+<br>
 
 <!-- ═══════════════════════ TYPING SVG + ANYA GIF ═══════════════════════ -->
 
+<div align="center">
 <table border="0" cellpadding="12" align="center">
 <tr>
-<td align="center" width="65%">
+<td align="center" width="62%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=120&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Loading+dev+modules...+%E2%9C%93;%F0%9F%91%BE+Welcome+to+mek090's+terminal!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=140&lines=%F0%9F%A5%9C+Waku+Waku!+Initializing+system...;%F0%9F%92%BB+Full-Stack+Dev+%7C+CTF+Player;%F0%9F%A4%96+AI+Integration+%26+Prompt+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%E2%9C%A8+Build+in+silence%2C+let+commits+speak.)](https://git.io/typing-svg)
 
 </td>
-<td align="center" width="35%">
+<td align="center" width="38%">
 
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="175" alt="Anya Heh"/>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="190" alt="Anya Heh"/>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/> &nbsp; `$ whoami` &nbsp; 🌸 &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="40"/>
+## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="42"/> &nbsp; `$ whoami` &nbsp; 🌸
 
 </div>
 
@@ -72,10 +82,12 @@
 # 🥜 identity.yaml
 
 name: mek090
+alias: "Rittipon A."
 role: Full-Stack Developer
-location: "🇹🇭 somewhere in Thailand"
+location: "🇹🇭 Thailand"
 status: "always building something 🔧"
 spirit_animal: "Anya Forger 🥜"
+vibe: "Dark mode only 🌙"
 
 currently_working_on:
   - "📅 Meeting Room Booking System"
@@ -83,14 +95,14 @@ currently_working_on:
   - "⚠️ Risk Management Platform"
 
 currently_learning:
-  - "🤖 AI Integration & Prompt Engineering"
+  - "🤖 AI Integration & Prompt Eng."
   - "🏗️ Advanced System Architecture"
   - "🔐 Cybersecurity & CTF"
 
 fun_fact: >
-  I think in code and dream in dark mode.
-  My IDE theme is always set to the darkest
-  option available. Waku Waku! ☕🌙
+  I think in code and dream in dark
+  mode. Coffee is my compile fuel. ☕
+  My debug tool? Anya's mind-read 🥜
 
 motto: "Build in silence, let the commits speak."
 ```
@@ -98,37 +110,31 @@ motto: "Build in silence, let the commits speak."
 </td>
 <td width="50%" valign="top">
 
-```js
-// 🥜 developer.js
+```typescript
+// 🥜 developer.ts
 
 class Developer {
-  constructor() {
-    this.name = "mek090";
-    this.role = "Full-Stack Developer";
-    this.location = "🇹🇭 Thailand";
-    this.spirit = "Anya Forger 🥜";
-    this.vibe = "Dark mode only 🌙";
-  }
+  readonly name = "mek090";
+  readonly role = "Full-Stack Dev";
+  readonly location = "🇹🇭 Thailand";
+  readonly spirit = "Anya Forger 🥜";
+  readonly vibe = "Dark mode only 🌙";
 
-  get skills() {
-    return {
-      languages: ["C#", "TypeScript", "JS", "Python"],
-      frontend: ["Vue 3", "React", "Next.js"],
-      backend: [".NET Core", "EF Core", "MediatR"],
-      database: ["PostgreSQL", "Supabase", "Prisma"],
-      devops: ["Docker", "Git", "CI/CD"],
-      security: ["CTF", "NCSA AI CTF"],
-    };
-  }
+  skills = {
+    languages : ["C#","TypeScript","JS","Python"],
+    frontend  : ["Vue 3","React","Next.js","Tailwind"],
+    backend   : [".NET Core","EF Core","MediatR"],
+    database  : ["PostgreSQL","Supabase","Prisma"],
+    devops    : ["Docker","Git","CI/CD","Linux"],
+    security  : ["CTF","NCSA AI CTF","Pentesting"],
+    ai        : ["Gemini API","Prompt Eng."],
+  };
 
-  wakuWaku() {
-    return "✨ Excited about building things! ✨";
-  }
-
-  get motto() {
-    return "Build in silence, let the commits speak.";
-  }
+  wakuWaku = () => "✨ Excited about building! ✨";
+  motto    = () => "Build in silence, let commits speak.";
 }
+
+export default new Developer();
 ```
 
 </td>
@@ -136,174 +142,213 @@ class Developer {
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <div align="center">
 
-## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="35"/>
+## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="38"/>
 
 <br>
 
 ### 🖥️ Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs,ts,js,py,html,css&theme=dark" />
 </p>
 
-### 🎨 Frontend Frameworks
+### 🎨 Frontend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,vite,nuxtjs&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,supabase,prisma,redis,graphql&theme=dark" />
 </p>
 
 ### 🛠️ Tools & DevOps
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,github,postman,linux&theme=dark" />
+</p>
+
+### 🤖 AI & Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Eng.-ff6bc1?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CTF-ff4757?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
+
+<div align="center">
+<br>
+
+<table border="0">
+<tr>
+<td width="50%" align="center">
+
+**Frontend Expertise**
+
+![Vue](https://img.shields.io/badge/Vue_3-▓▓▓▓▓▓▓▓▓░-42b883?style=flat-square&logo=vue.js&logoColor=white&labelColor=1a1a2e) `90%`
+![React](https://img.shields.io/badge/React-▓▓▓▓▓▓▓▓░░-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e) `80%`
+![TypeScript](https://img.shields.io/badge/TypeScript-▓▓▓▓▓▓▓▓▓░-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e) `90%`
+![Tailwind](https://img.shields.io/badge/Tailwind-▓▓▓▓▓▓▓▓░░-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e) `85%`
+
+</td>
+<td width="50%" align="center">
+
+**Backend Expertise**
+
+![.NET](https://img.shields.io/badge/.NET_Core-▓▓▓▓▓▓▓▓▓░-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e) `90%`
+![C#](https://img.shields.io/badge/C%23-▓▓▓▓▓▓▓▓▓░-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1a2e) `90%`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-▓▓▓▓▓▓▓▓░░-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e) `80%`
+![Docker](https://img.shields.io/badge/Docker-▓▓▓▓▓▓▓░░░-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e) `70%`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="35"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="35"/>
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/🏢_Enterprise-e91e8c?style=for-the-badge" />
-
-<br><br>
-
-**📅 Meeting Room Booking**<br>
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ tree ./projects`
 
 <br>
 
-**🚗 Vehicle Booking**<br>
+<table border="0" cellspacing="10">
+<tr>
+<td align="center" width="33%" style="border-radius: 12px;">
+
+<img src="https://img.shields.io/badge/🏢_ENTERPRISE_SYSTEMS-e91e8c?style=for-the-badge&labelColor=1a1a2e" />
+
+<br><br>
+
+**📅 Meeting Room Booking**
+<br>
+<sub>Full enterprise booking system with real-time availability, QR check-in, email notifications</sub>
+
+<br>
+
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PG](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<br>
+
+**🚗 Vehicle Booking System**
+<br>
+<sub>Fleet management with approval workflow, driver assignment & GPS tracking</sub>
+
+<br>
+
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-e91e8c?style=flat-square)
+![EF](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 ![DB](https://img.shields.io/badge/DB_Design-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <br>
 
-**⚠️ Risk Management**<br>
+**⚠️ Risk Management Platform**
+<br>
+<sub>Enterprise risk tracking with scoring matrix, escalation & audit trail</sub>
+
+<br>
+
 ![Modules](https://img.shields.io/badge/Feature_Modules-ff6bc1?style=flat-square)
-![Master](https://img.shields.io/badge/Master_Data-ffb7c5?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-ff4757?style=flat-square)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌐_Personal-ff6bc1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_PERSONAL_PROJECTS-ff6bc1?style=for-the-badge&labelColor=1a1a2e" />
 
 <br><br>
 
-**🗺️ Buriram Travel Guide**<br>
+**🗺️ Buriram Travel Guide**
+<br>
+<sub>AI-powered travel platform with chatbot, live weather, attraction reviews & interactive map</sub>
+
+<br>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <br>
 
-🤖 AI Chatbot &nbsp;•&nbsp; 🌦️ Weather<br>
-⭐ Reviews &nbsp;•&nbsp; 🗺️ Interactive Map
+`🤖 AI Chatbot`&nbsp;`🌦️ Live Weather`<br>
+`⭐ Reviews`&nbsp;`🗺️ Interactive Map`<br>
+`📍 POI Database`&nbsp;`🌏 Multilingual`
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐_Security-ff4757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐_SECURITY_&_CTF-ff4757?style=for-the-badge&labelColor=1a1a2e" />
 
 <br><br>
 
-**🏴‍☠️ CTF Challenges**<br>
-![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-ff4757?style=flat-square&logo=hackthebox&logoColor=white)
+**🏴‍☠️ CTF Challenges**
+<br>
+<sub>Active CTF competitor focused on AI security, web exploitation & reverse engineering</sub>
 
 <br>
 
-🔍 Vuln Research &nbsp;•&nbsp; 🧠 Rev Eng<br>
-🛡️ Exploit Dev &nbsp;•&nbsp; 📡 Network
+![NCSA](https://img.shields.io/badge/NCSA_AI_CTF-ff4757?style=flat-square&logo=hackthebox&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Exploit-e91e8c?style=flat-square)
+![Rev](https://img.shields.io/badge/Rev_Eng-ff6bc1?style=flat-square)
+
+<br>
+
+`🔍 Vuln Research`&nbsp;`🧠 Rev Eng`<br>
+`🛡️ Exploit Dev`&nbsp;`📡 Network`<br>
+`🤖 AI Security`&nbsp;`🕵️ OSINT`
 
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; 🌸 &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="30"/>
+## 📊 `$ neofetch --stats` &nbsp; 🌸 &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="32"/>
 
 <br>
 
-<!-- Row 1: GitHub Stats + Top Languages -->
-<table border="0" cellpadding="6" align="center">
+<table border="0" cellpadding="8" align="center">
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5"/>
-      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5" alt="GitHub Stats"/>
-    </picture>
+    <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1&include_all_commits=true" alt="GitHub Stats"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea"/>
-      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
-    </picture>
+    <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d1a&title_color=ff6bc1&text_color=eaeaea&hide=html" alt="Top Languages"/>
   </a>
 </td>
 </tr>
@@ -311,17 +356,16 @@ class Developer {
 
 <br>
 
-<!-- Row 2: Streak Stats + Trophy side by side -->
-<table border="0" cellpadding="6" align="center">
+<table border="0" cellpadding="8" align="center">
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=1a1a2e&stroke=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakLabel=ffb7c5&sideLabels=eaeaea&dates=888888&currStreakNum=ffb7c5&sideNums=eaeaea" height="165" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0d0d1a&stroke=ff6bc1&ring=e91e8c&fire=ff4757&currStreakLabel=ff6bc1&sideLabels=eaeaea&dates=888888&currStreakNum=ff6bc1&sideNums=eaeaea" height="175" alt="GitHub Streak"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
-    <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="165" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=mek090&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="175" alt="Trophies"/>
   </a>
 </td>
 </tr>
@@ -329,20 +373,20 @@ class Developer {
 
 <br>
 
-<!-- Row 3: Activity Graph (full width) -->
+<!-- 3D Contribution Graph -->
 <a href="https://github.com/mek090">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0d0d1a&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
 
 <div align="center">
 
-## 🐍 `$ ./snake --eat-contributions`
+## 🐍 `$ ./snake --eat-contributions` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="35"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
@@ -350,89 +394,151 @@ class Developer {
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> 🥜 _Push this repo & run the "Generate Snake Animation" workflow in Actions tab!_
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ INTERESTS ═══════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="35"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="35"/>
+## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ cat ./beyond-code`
 
 <br>
 
-|  🔐 Security   |   🤖 AI & ML   | 🚀 Universe |    🎮 Gaming    |  🖥️ Hardware  |
-| :------------: | :------------: | :---------: | :-------------: | :-----------: |
-| CTF Challenges |   Gemini API   |    Space    | Mobile Legends  | PC Components |
-|  NCSA AI CTF   |  Prompt Eng.   |  Astronomy  | Wuthering Waves | Custom Builds |
-| Vuln Research  | AI Integration |   Sci-Fi    |    E-Sports     |  Smartphones  |
+<table>
+<thead>
+<tr>
+<th>🔐 Security</th>
+<th>🤖 AI & ML</th>
+<th>🚀 Universe</th>
+<th>🎮 Gaming</th>
+<th>🖥️ Hardware</th>
+<th>🎌 Anime</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">CTF Challenges</td>
+<td align="center">Gemini API</td>
+<td align="center">Space</td>
+<td align="center">Mobile Legends</td>
+<td align="center">PC Components</td>
+<td align="center">Spy × Family</td>
+</tr>
+<tr>
+<td align="center">NCSA AI CTF</td>
+<td align="center">Prompt Eng.</td>
+<td align="center">Astronomy</td>
+<td align="center">Wuthering Waves</td>
+<td align="center">Custom Builds</td>
+<td align="center">Attack on Titan</td>
+</tr>
+<tr>
+<td align="center">Vuln Research</td>
+<td align="center">AI Integration</td>
+<td align="center">Sci-Fi</td>
+<td align="center">E-Sports</td>
+<td align="center">Smartphones</td>
+<td align="center">Chainsaw Man</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="35"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="35"/>
+## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/>
+
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20in%20silence%2C%20let%20the%20commits%20speak.&author=mek090%20%F0%9F%A5%9C)](https://github.com/mek090)
 
 <br>
 
 ```
-                   🥜
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║    "Build in silence, let the commits speak."             ║
-  ║                                          — mek090  🥜     ║
-  ║                                                           ║
-  ║    "Waku Waku! Code is like peanuts...                    ║
-  ║     you can never have just one commit!"                  ║
-  ║                                          — Anya  🥜       ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-                   🥜
+          🥜   Anya has something to say...   🥜
+
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   "Build in silence, let the commits speak."                 ║
+  ║                                           — mek090  🥜       ║
+  ║                                                              ║
+  ║   "Waku Waku! Code is like peanuts...                        ║
+  ║    you can never have just one commit!"                      ║
+  ║                                           — Anya  🥜         ║
+  ║                                                              ║
+  ║   "The best debugger is a good night's sleep and coffee."    ║
+  ║                                           — a developer ☕    ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<!-- ═══════════════════════ METRICS ═══════════════════════ -->
+<!-- ═══════════════════════ CURRENTLY LISTENING ═══════════════════════ -->
 
 <div align="center">
 
-## 📈 `$ uptime`
+## 🎵 `$ now-playing` &nbsp; 🎧
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=TOTAL+STARS)
+[![Spotify](https://img.shields.io/badge/Spotify-Coding%20lo--fi%20%26%20anime%20OST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d1a)](https://open.spotify.com)
+
+<sub>🎌 Currently vibing to: anime OST + lo-fi beats while coding 🌙</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<div align="center">
+
+## 🌸 `$ ping mek090` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="35"/>
+
+<br>
+
+> 💬 Open to collaboration, exciting projects, and CTF teams!
+>
+> 🥜 _Waku Waku! Always excited to connect with fellow devs!_
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mek090@github.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mek090)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mke.ritt/)
 
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e91e8c,100:ff6bc1&height=150&section=footer&text=Waku%20Waku!%20🥜&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6bc1,50:e91e8c,100:0d0d1a&height=160&section=footer&text=Waku%20Waku!%20%F0%9F%A5%9C&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="80" alt="Anya Bye Bye"/>
+<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="90" alt="Anya Bye Bye"/>
 
 ```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 terminal session ended        ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 anya says: see you next time!  ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 waku waku~                     ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+╔════════════════════════════════════════════════════════════════╗
+║  🥜 terminal session ended                                     ║
+║  🥜 anya says: see you next time!  (ᵔᴥᵔ)                      ║
+║  🥜 waku waku~  ✨  thanks for visiting!                       ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-_⚡ Waku Waku! Crafted with 🥜 from Thailand 🇹🇭_
+_⚡ Crafted with 🥜 & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
 
 </div>
