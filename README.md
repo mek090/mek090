@@ -1,15 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════ SAKURA FALLING ═══════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
-</div>
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.6;"/>
 
-<!-- ═══════════════════════ ANYA BANNER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HEADER BANNER ═══════════════════════ -->
 
-<a href="https://github.com/mek090">
-  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anya_banner.png?v=5" width="100%" alt="mek090 Anya Banner" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(255, 183, 197, 0.5);"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=280&section=header&text=mek090&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%F0%9F%A5%9C+Full-Stack+Developer+%7C+%F0%9F%8C%99+Dark+Mode+Only&descAlignY=63&descSize=22&descColor=ffb7c5" width="100%"/>
 
 <br>
 
@@ -134,6 +130,25 @@ class Developer {
 </td>
 </tr>
 </table>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════ CURRENTLY BUILDING ═══════════════════════ -->
+
+<div align="center">
+
+## 🎯 `$ git status --active` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="30"/>
+
+<br>
+
+| 🚧 Project | ⚡ Tech Stack | 📌 Status |
+|:---|:---:|:---:|
+| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/In_Progress-e91e8c?style=flat-square&logo=github&logoColor=white) |
+| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` | ![](https://img.shields.io/badge/Building-ff6bc1?style=flat-square&logo=github&logoColor=white) |
+| ⚠️ **Risk Management Platform** | `Modular System` `Master Data` | ![](https://img.shields.io/badge/Active-ffb7c5?style=flat-square&logo=github&logoColor=white) |
+| 🗺️ **Buriram Travel Guide** | `Next.js` `Supabase` `Gemini AI` | ![](https://img.shields.io/badge/Live-4285F4?style=flat-square&logo=google&logoColor=white) |
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -350,8 +365,6 @@ class Developer {
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> 🥜 _Push this repo & run the "Generate Snake Animation" workflow in Actions tab!_
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -374,7 +387,7 @@ class Developer {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+<!-- ═══════════════════════ DEV QUOTE ═══════════════════════ -->
 
 <div align="center">
 
@@ -382,20 +395,11 @@ class Developer {
 
 <br>
 
-```
-                   🥜
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║    "Build in silence, let the commits speak."             ║
-  ║                                          — mek090  🥜     ║
-  ║                                                           ║
-  ║    "Waku Waku! Code is like peanuts...                    ║
-  ║     you can never have just one commit!"                  ║
-  ║                                          — Anya  🥜       ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-                   🥜
-```
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
+
+> 🥜 _"Build in silence, let the commits speak."_ — **mek090**
 
 </div>
 
@@ -417,21 +421,13 @@ class Developer {
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e91e8c,100:ff6bc1&height=150&section=footer&text=Waku%20Waku!%20🥜&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=footer&text=Waku%20Waku!%20%F0%9F%A5%9C&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 <div align="center">
 
 <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="80" alt="Anya Bye Bye"/>
 
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 terminal session ended        ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 anya says: see you next time!  ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀  🥜 waku waku~                     ⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
+<br>
 
 _⚡ Waku Waku! Crafted with 🥜 from Thailand 🇹🇭_
 
