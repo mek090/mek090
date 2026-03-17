@@ -49,9 +49,6 @@
 
 </div>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║          $ whoami                 ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -131,9 +128,6 @@ export default new FusionResonator();
 </tr>
 </table>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ git status --active        ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -152,9 +146,6 @@ export default new FusionResonator();
 | 🗺️ **Buriram Travel Guide** | `Next.js` `Supabase` `Gemini AI` | ![](https://img.shields.io/badge/✓_Live-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 </div>
-
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ ls ./tech-stack           ║ -->
@@ -227,9 +218,6 @@ export default new FusionResonator();
 </table>
 
 </div>
-
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║       $ tree ./projects           ║ -->
@@ -328,9 +316,6 @@ export default new FusionResonator();
 </table>
 </div>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ neofetch --stats           ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -382,9 +367,6 @@ export default new FusionResonator();
 
 </div>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║    $ ./snake --eat-contributions  ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -400,9 +382,6 @@ export default new FusionResonator();
 </picture>
 
 </div>
-
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║      $ cat ./beyond-code          ║ -->
@@ -455,9 +434,6 @@ export default new FusionResonator();
 
 </div>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║     $ fortune | cowsay            ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -492,9 +468,6 @@ export default new FusionResonator();
 
 </div>
 
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
-
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ now-playing             ║ -->
 <!-- ╚═══════════════════════════════════╝ -->
@@ -510,9 +483,6 @@ export default new FusionResonator();
 <sub>🎮 Currently vibing to: Wuthering Waves OST + Aemeath battle theme while coding 🌙</sub>
 
 </div>
-
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║         $ ping mek090            ║ -->
@@ -537,9 +507,6 @@ export default new FusionResonator();
 [![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mke.ritt/)
 
 </div>
-
-<!-- ══════════════ DIVIDER ══════════════ -->
-<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_divider.png" width="100%">
 
 <!-- ╔═══════════════════════════════════╗ -->
 <!-- ║           $ uptime                ║ -->
@@ -578,3 +545,4 @@ export default new FusionResonator();
 _✦ Crafted with Fusion & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
 
 </div>
+
