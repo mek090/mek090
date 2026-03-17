@@ -69,7 +69,7 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="42"/> &nbsp; `$ whoami` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="42"/>
+## 🥜 `$ whoami` 🌸
 
 </div>
 
@@ -149,7 +149,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🎯 `$ git status --active` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 🎯 `$ git status --active`
 
 <br>
 
@@ -171,7 +171,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 🚀 `$ ls ./tech-stack`
 
 <br>
 
@@ -246,7 +246,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 🥜 `$ tree ./projects` 🥜
 
 </div>
 
@@ -352,7 +352,7 @@ export default new Developer();
 
 <div align="center">
 
-## 📊 `$ neofetch --stats` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 📊 `$ neofetch --stats` 🌸
 
 <br>
 
@@ -406,7 +406,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🐍 `$ ./snake --eat-contributions` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
+## 🐍 `$ ./snake --eat-contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" />
@@ -425,7 +425,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 🎌 `$ cat ./beyond-code`
 
 <br>
 
@@ -479,7 +479,7 @@ export default new Developer();
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="40"/>
+## 🥜 `$ fortune | cowsay`
 
 <br>
 
@@ -535,7 +535,7 @@ export default new Developer();
 
 <div align="center">
 
-## 🌸 `$ ping mek090` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
+## 🌸 `$ ping mek090`
 
 <br>
 
@@ -562,7 +562,7 @@ export default new Developer();
 
 <div align="center">
 
-## 📈 `$ uptime` &nbsp; <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/anime-spy-x-family.gif" width="38"/>
+## 📈 `$ uptime`
 
 <br>
 
