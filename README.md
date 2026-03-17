@@ -9,7 +9,7 @@
 <!-- ══════════════ BANNER ══════════════ -->
 <div align="center">
 <a href="https://github.com/mek090">
-  <img src="https://i.imgur.com/83pZ59Y.jpeg" width="100%" alt="mek090 Aemeath Banner" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/aemeath_banner.png" width="100%" alt="mek090 Aemeath Banner" style="border-radius: 15px;"/>
 </a>
 </div>
 
