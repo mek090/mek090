@@ -4,7 +4,7 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A5%9C%20Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!&descAlignY=62&descSize=22&descColor=ffb7c5" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=300&section=header&text=mek090&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A5%9C%20Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!&descAlignY=62&descSize=22&descColor=ffb7c5" width="100%"/> -->
 
 <!-- ══════════════ SAKURA PETALS ══════════════ -->
 <div align="center">
