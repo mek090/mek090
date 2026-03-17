@@ -1,5 +1,6 @@
 <!-- ═══════════════════════ HEADER CAPSULE ═══════════════════════ -->
 
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1a2e,70:e91e8c,100:ff6bc1&height=220&section=header&text=mek090&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CTF%20Player%20%7C%20Waku%20Waku!%20%F0%9F%A5%9C&descAlignY=60&descSize=20&descColor=ffb7c5" width="100%"/>
 
 <<<<<<< HEAD
@@ -82,6 +83,24 @@
 </td>
 <td align="center" width="60%">
 
+=======
+<!-- ══════════════ SAKURA RAIN ══════════════ -->
+<img src="https://raw.githubusercontent.com/mek090/mek090/main/assets/sakura_petals.gif" width="100%" height="100px" style="object-fit:cover;"/>
+
+<!-- ══════════════ MAIN ANIMATED HEADER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=320&section=header&text=mek090&fontSize=130&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%F0%9F%A5%9C+Full-Stack+Dev+%7C+%F0%9F%8C%99+Dark+Mode+Always+%7C+%F0%9F%87%B9%F0%9F%87%AD+Thailand&descAlignY=65&descSize=22&descColor=ffb7c5" width="100%"/>
+
+<br>
+
+<!-- ══════════════ ANYA GIF ROW ══════════════ -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" width="20%">
+<img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="140"/>
+</td>
+<td align="center" width="60%">
+
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=FF6BC1&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=140&lines=%F0%9F%A5%9C+Waku+Waku!+System+is+ONLINE!;%F0%9F%92%BB+mek090.exe+has+entered+the+chat;%F0%9F%8C%99+Dark+Mode+Only+%E2%80%94+No+Exception;%F0%9F%94%90+CTF+%7C+AI+%7C+Full-Stack+%7C+%E2%98%95;%F0%9F%9A%80+Build+in+silence%2C+let+commits+speak)](https://git.io/typing-svg)
 
 </td>
@@ -121,7 +140,11 @@
 <div align="center">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="42"/> &nbsp; `$ whoami` &nbsp; 🌸
+=======
+## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="45"/> &nbsp; `$ whoami` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="45"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
 ## <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="45"/> &nbsp; `$ whoami` &nbsp; <img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="45"/>
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
@@ -162,6 +185,9 @@ fun_fact: >
   I think in code and dream in dark mode.
   My IDE is always set to the darkest theme.
   Waku Waku! ☕🌙
+<<<<<<< HEAD
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 motto: "Build in silence, let the commits speak."
@@ -225,6 +251,7 @@ export default new Developer();
 </td>
 </tr>
 </table>
+<<<<<<< HEAD
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -251,12 +278,39 @@ export default new Developer();
 <!-- ══════════════ TECH STACK ══════════════ -->
 <div align="center">
 
+=======
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ══════════════ CURRENTLY BUILDING ══════════════ -->
+<div align="center">
+
+## 🎯 `$ git status --active` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/>
+
+<br>
+
+| 🚧 Project | ⚡ Stack | 📌 Status |
+|:---|:---:|:---:|
+| 📅 **Meeting Room Booking System** | `.NET Core` `Vue 3` `TypeScript` | ![](https://img.shields.io/badge/▶_In_Progress-e91e8c?style=flat-square&logoColor=white) |
+| 🚗 **Vehicle Booking System** | `Full-Stack` `PostgreSQL` | ![](https://img.shields.io/badge/▶_Building-ff6bc1?style=flat-square&logoColor=white) |
+| ⚠️ **Risk Management Platform** | `Modular` `Master Data` | ![](https://img.shields.io/badge/▶_Active-c45ab3?style=flat-square&logoColor=white) |
+| 🗺️ **Buriram Travel Guide** | `Next.js` `Supabase` `Gemini AI` | ![](https://img.shields.io/badge/✓_Live-4285F4?style=flat-square&logo=google&logoColor=white) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ══════════════ TECH STACK ══════════════ -->
+<div align="center">
+
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 ## 🚀 `$ ls ./tech-stack` &nbsp; <img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="38"/>
 
 <br>
 
 ### 🖥️ Languages
 <p>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <img src="https://skillicons.dev/icons?i=cs,ts,js,py,html,css&theme=dark" />
 </p>
@@ -269,12 +323,19 @@ export default new Developer();
 
 ### 🎨 Frontend
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css&theme=dark" />
+</p>
+
+### 🎨 Frontend
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 <p>
 <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,vite,nuxtjs&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <img src="https://skillicons.dev/icons?i=dotnet,postgres,supabase,prisma,redis,graphql&theme=dark" />
 =======
@@ -300,15 +361,30 @@ export default new Developer();
 <img src="https://img.shields.io/badge/CTF-ff4757?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 =======
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,supabase,prisma,graphql,redis&theme=dark" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,github,postman,linux&theme=dark" />
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 </p>
 
 </div>
 
+<<<<<<< HEAD
 <!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
 
+=======
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ══════════════ PROJECTS ══════════════ -->
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 <div align="center">
 <br>
 
+<<<<<<< HEAD
 <table border="0">
 <tr>
 <td width="50%" align="center">
@@ -371,6 +447,8 @@ export default new Developer();
 <br>
 <sub>Fleet management with approval workflow, driver assignment & GPS tracking</sub>
 =======
+=======
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 ## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ tree ./projects` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/>
 
 </div>
@@ -395,6 +473,7 @@ export default new Developer();
 
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-e91e8c?style=flat-square)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![EF](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 ![DB](https://img.shields.io/badge/DB_Design-336791?style=flat-square&logo=postgresql&logoColor=white)
 =======
@@ -406,6 +485,9 @@ export default new Developer();
 **⚠️ Risk Management Platform**
 <br>
 <sub>Enterprise risk tracking with scoring matrix, escalation & audit trail</sub>
+=======
+![DB](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 <br>
 
@@ -416,8 +498,14 @@ export default new Developer();
 <td align="center" width="33%">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="https://img.shields.io/badge/🌐_PERSONAL_PROJECTS-ff6bc1?style=for-the-badge&labelColor=1a1a2e" />
 
+=======
+<img src="https://img.shields.io/badge/🌐_Personal_Projects-ff6bc1?style=for-the-badge" />
+<br><br>
+<img src="https://media.tenor.com/UONBkMxSig0AAAAC/anya-forger-anya.gif" width="90"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
 <img src="https://img.shields.io/badge/🌐_Personal_Projects-ff6bc1?style=for-the-badge" />
 <br><br>
@@ -446,8 +534,14 @@ export default new Developer();
 <td align="center" width="33%">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="https://img.shields.io/badge/🔐_SECURITY_&_CTF-ff4757?style=for-the-badge&labelColor=1a1a2e" />
 
+=======
+<img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff4757?style=for-the-badge" />
+<br><br>
+<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="90"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
 <img src="https://img.shields.io/badge/🔐_Security_&_CTF-ff4757?style=for-the-badge" />
 <br><br>
@@ -475,6 +569,9 @@ export default new Developer();
 🔍 Vuln Research &nbsp;•&nbsp; 🧠 Rev Eng<br>
 🛡️ Exploit Dev &nbsp;•&nbsp; 📡 Network Sec<br>
 🔓 OSINT &nbsp;•&nbsp; 💉 Web Hacking
+<<<<<<< HEAD
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 </td>
@@ -483,7 +580,11 @@ export default new Developer();
 
 </div>
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+=======
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 <!-- ══════════════ GITHUB STATS ══════════════ -->
 <div align="center">
@@ -493,24 +594,34 @@ export default new Developer();
 <br>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <table border="0" cellpadding="8" align="center">
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
     <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=ff6bc1&icon_color=e91e8c&text_color=eaeaea&ring_color=ff6bc1&include_all_commits=true" alt="GitHub Stats"/>
 =======
+=======
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 <table border="0" cellpadding="6" align="center">
 <tr>
 <td align="center">
   <a href="https://github.com/mek090">
     <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=ffb7c5&icon_color=ffb7c5&text_color=eaeaea&ring_color=ffb7c5" alt="GitHub Stats"/>
+<<<<<<< HEAD
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/mek090">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d1a&title_color=ff6bc1&text_color=eaeaea&hide=html" alt="Top Languages"/>
+=======
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
     <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=ffb7c5&text_color=eaeaea" alt="Top Languages"/>
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
@@ -522,8 +633,11 @@ export default new Developer();
 <br>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <table border="0" cellpadding="8" align="center">
 =======
+=======
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 <table border="0" cellpadding="6" align="center">
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 <tr>
@@ -543,9 +657,14 @@ export default new Developer();
 <br>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- 3D Contribution Graph -->
 <a href="https://github.com/mek090">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0d0d1a&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C%20Anya%20is%20watching%20your%20contributions..." width="98%" alt="Activity Graph"/>
+=======
+<a href="https://github.com/mek090">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C+Anya+is+watching+your+contributions..." width="98%" alt="Activity Graph"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
 <a href="https://github.com/mek090">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=1a1a2e&color=ff6bc1&line=e91e8c&point=ff4757&area_color=ff6bc1&area=true&hide_border=true&custom_title=%F0%9F%A5%9C+Anya+is+watching+your+contributions..." width="98%" alt="Activity Graph"/>
@@ -554,7 +673,11 @@ export default new Developer();
 
 </div>
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+=======
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 <!-- ══════════════ SNAKE ══════════════ -->
 <div align="center">
@@ -569,13 +692,21 @@ export default new Developer();
 
 </div>
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+=======
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 <!-- ══════════════ INTERESTS ══════════════ -->
 <div align="center">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ cat ./beyond-code`
+=======
+## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/>
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 =======
 ## <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ cat ./beyond-code` &nbsp; <img src="https://media.tenor.com/2YtU433TqAIAAAAC/anya-forger-spy-x-family.gif" width="38"/>
 >>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
@@ -623,12 +754,17 @@ export default new Developer();
 
 </div>
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+=======
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
 
 <!-- ══════════════ DEV QUOTE ══════════════ -->
 <div align="center">
 
 ## <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/> &nbsp; `$ fortune | cowsay` &nbsp; <img src="https://media.tenor.com/dHkcMRBljb4AAAAC/anya-forger-spy-x-family.gif" width="38"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 <br>
@@ -732,6 +868,46 @@ export default new Developer();
 
 _⚡ Crafted with 🥜 & ☕ from Thailand 🇹🇭 &nbsp;|&nbsp; Dark mode forever 🌙_
 =======
+![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/mek090?style=for-the-badge&color=ff4757&label=TOTAL+STARS)
+
+</div>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text=Waku%20Waku!%20%F0%9F%A5%9C&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+<div align="center">
+
+<img src="https://media.tenor.com/_S1vYd2_O6AAAAAC/anya-forger-spy-x-family.gif" width="100" alt="Anya Bye"/>
+
+<br>
+
+_⚡ Crafted with 🥜 & ☕ from Thailand 🇹🇭 — Waku Waku!_
+>>>>>>> 0bf0d27cd7c495d72082c302a5ee84a9c838fba7
+=======
+
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
+
+> 🥜 _"Build in silence, let the commits speak."_ — **mek090**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ══════════════ METRICS ══════════════ -->
+<div align="center">
+
+## 📈 `$ uptime`
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mek090&style=for-the-badge&color=e91e8c&label=PROFILE+VIEWS)
 &nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/mek090?style=for-the-badge&color=ff6bc1&label=FOLLOWERS)
