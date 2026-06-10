@@ -1,17 +1,15 @@
 <!--
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│ mek090 — GitHub Profile README                                               │
-│ Theme: terminal · Claude crab · Codex executor · agentic full-stack          │
+│ mek090 — GitHub Profile README · v2                                          │
+│ Theme: terminal art · Claude crab 🦀 × Codex executor ▣ · neon on black      │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 -->
 
 <div align="center">
 
-# `mek090@github:~$`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:D97757,65:8B5CF6,100:22C55E&text=mek090&fontSize=68&fontColor=F0F6FC&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20CTF%20Player%20%C2%B7%20Thailand&descSize=18&descAlignY=56" width="100%" alt="mek090 banner" />
 
-### terminal-native profile · Claude-style crab brain × Codex-style executor
-
-`Full-Stack Developer` · `AI Builder` · `CTF Player` · `Thailand 🇹🇭`
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=D97757&center=true&vCenter=true&width=640&height=48&lines=mek090%40github%3A~%24+whoami;Full-Stack+Developer+from+Thailand+%F0%9F%87%B9%F0%9F%87%AD;reason+like+Claude+%F0%9F%A6%80+%C2%B7+execute+like+Codex+%E2%96%A3;build+quietly+%C2%B7+ship+clearly+%C2%B7+let+commits+speak;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E2%80%94+welcome+to+my+terminal" alt="typing intro" />
 
 <br />
 
@@ -20,88 +18,47 @@
 <a href="https://www.instagram.com/mke.ritt/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram" /></a>
 <a href="https://www.tiktok.com/@mzxei5r"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
-<br />
-<br />
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=mek090&style=flat-square&color=D97757&label=views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/mek090?style=flat-square&color=8B5CF6&label=followers&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/mek090?style=flat-square&color=22C55E&label=stars&logo=github" alt="GitHub stars" />
+<img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square&labelColor=0D1117" alt="status online" />
 
 </div>
 
 ```txt
 ┌─ booting agent workspace ───────────────────────────────────────────────────┐
-│                                                                            │
-│      (\_/)        claude-crab: plan, reason, refactor, explain             │
-│     ( •_•)        codex-core : execute, patch, test, ship                  │
-│    / >🦀          mek090     : build real systems from Thailand            │
-│                                                                            │
+│                                                                             │
+│      (\_/)        claude-crab: plan, reason, refactor, explain              │
+│     ( •_•)        codex-core : execute, patch, test, ship                   │
+│    / >🦀          mek090     : build real systems from Thailand             │
+│                                                                             │
 │  $ ./agent --mode terminal --brain claude --executor codex --user mek090    │
-│  status: online                                                             │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+│  status: online ▋                                                           │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-```bash
-mek090@github:~$ whoami
-Full-Stack Developer from Thailand 🇹🇭
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:D97757,30:E3B341,55:22C55E,80:8B5CF6,100:E879F9" width="100%" alt="" />
 
+## `./whoami --compact`
+
+สวัสดีครับ, I'm `mek090` — I build practical full-stack systems, AI-assisted workflows,
+dashboards, booking platforms, and security experiments.
+
+- 🦀 **Claude crab brain** — system design, careful reasoning, readable architecture
+- ▣ **Codex executor** — terminal-first iteration, patches, tests, commits, automation
+- 🇹🇭 **mek090 shell** — Thai dev energy, dark terminal aesthetic, real-world workflow focus
+
+> ทำระบบให้ใช้ได้จริง อ่านง่าย ดูแลง่าย และพร้อมขยายต่อ
+
+```bash
 mek090@github:~$ echo $FOCUS
 enterprise-systems ai-workflows full-stack-products ctf-security
 
 mek090@github:~$ echo $STYLE
 "Claude-like reasoning + Codex-like terminal execution"
-```
-
-## `./whoami --compact`
-
-สวัสดีครับ, I’m `mek090` — I build practical full-stack systems, AI-assisted workflows, dashboards, booking platforms, and security experiments.
-
-The vibe here is not poster/banner heavy anymore. It is a clean terminal workspace:
-
-- **Claude crab brain 🦀** — system design, careful reasoning, refactoring, readable architecture.
-- **Codex executor ▣** — terminal-first iteration, patches, tests, commits, automation.
-- **mek090 shell** — Thai dev energy, dark terminal aesthetic, real-world workflow focus.
-
-> ทำระบบให้ใช้ได้จริง อ่านง่าย ดูแลง่าย และพร้อมขยายต่อ
-
-## `cat ./agent-stack.toml`
-
-```toml
-[user]
-name = "mek090"
-region = "Thailand"
-role = "Full-Stack Developer"
-mode = "terminal-first"
-
-[agent.claude]
-symbol = "🦀"
-color = "warm amber"
-strengths = [
-  "architecture thinking",
-  "requirements breakdown",
-  "clean refactoring",
-  "explainable decisions"
-]
-
-[agent.codex]
-symbol = "▣"
-color = "executor green"
-strengths = [
-  "fast iteration",
-  "code generation",
-  "patch discipline",
-  "test and ship loops"
-]
-
-[mek090]
-ships = [
-  "enterprise workflows",
-  "booking platforms",
-  "AI-powered web apps",
-  "dashboards",
-  "CTF/security labs"
-]
 ```
 
 ## `ls ./stack --grouped`
@@ -120,11 +77,11 @@ ships = [
 ### tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark" alt="Docker, Git, GitHub, Linux, VS Code, Postman" />
 
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/%F0%9F%A6%80_Claude_Crab-Plan_%2F_Reason_%2F_Refactor-D97757?style=flat-square&labelColor=0D1117" alt="Claude crab: plan reason refactor" />
-<img src="https://img.shields.io/badge/%E2%96%A3_Codex_Core-Execute_%2F_Test_%2F_Ship-22C55E?style=flat-square&labelColor=0D1117" alt="Codex core: execute test ship" />
-<img src="https://img.shields.io/badge/Terminal_Native-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="Terminal native" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%80_Claude_Crab-Plan_%2F_Reason_%2F_Refactor-D97757?style=flat-square&labelColor=0D1117" alt="Claude crab" />
+<img src="https://img.shields.io/badge/%E2%96%A3_Codex_Core-Execute_%2F_Test_%2F_Ship-22C55E?style=flat-square&labelColor=0D1117" alt="Codex core" />
+<img src="https://img.shields.io/badge/Terminal_Native-38BDF8?style=flat-square&labelColor=0D1117" alt="Terminal native" />
 <img src="https://img.shields.io/badge/Agentic_Workflows-8B5CF6?style=flat-square&labelColor=0D1117" alt="Agentic workflows" />
 <img src="https://img.shields.io/badge/CTF_Security-F43F5E?style=flat-square&labelColor=0D1117" alt="CTF security" />
 
@@ -132,88 +89,39 @@ ships = [
 
 ## `git status --active`
 
-| project | type | stack | mission |
-|:--|:--|:--|:--|
-| **Meeting Room Booking System** | enterprise workflow | `.NET Core` `Vue 3` `TypeScript` `PostgreSQL` | availability, approval flow, QR check-in, notifications |
-| **Vehicle Booking System** | operations platform | `Full-Stack` `EF Core` `PostgreSQL` | fleet reservation, driver assignment, tracking workflow |
-| **Risk Management Platform** | governance system | `Modular` `MediatR` `Master Data` | risk scoring, escalation, audit trails |
-| **Buriram Travel Guide** | AI web app | `Next.js` `Supabase` `Gemini AI` | chatbot, weather, reviews, maps, POI discovery |
-| **CTF / AI Security Lab** | research lab | `Web` `OSINT` `AI Security` | exploit practice, prompt attack/defense, challenge solving |
+| | project | type | stack | mission |
+|:--|:--|:--|:--|:--|
+| 🟠 | **Meeting Room Booking** | enterprise workflow | `.NET Core` `Vue 3` `TS` `PostgreSQL` | availability, approval flow, QR check-in |
+| 🔵 | **Vehicle Booking System** | operations platform | `C#` `EF Core` `PostgreSQL` | fleet reservation, driver assignment |
+| 🟣 | **Risk Management Platform** | governance system | `Modular` `MediatR` `Master Data` | risk scoring, escalation, audit trails |
+| 🟢 | **Buriram Travel Guide** | AI web app | `Next.js` `Supabase` `Gemini AI` | chatbot, weather, reviews, maps |
+| 🔴 | **CTF / AI Security Lab** | research lab | `Web` `OSINT` `AI Security` | exploit practice, prompt attack/defense |
 
-## `tree ./agent-workflow`
-
-```txt
-agent-workflow/
-├── 00-intake/
-│   ├── understand-user-flow
-│   ├── map-data-and-permissions
-│   └── define-done
-├── 01-claude-crab/
-│   ├── reason-about-architecture
-│   ├── split-work-into-clean-modules
-│   ├── review-edge-cases
-│   └── keep-the-codebase-readable
-├── 02-codex-core/
-│   ├── edit-files
-│   ├── run-tests
-│   ├── fix-fast
-│   └── commit-when-clean
-└── 03-ship/
-    ├── verify
-    ├── document
-    └── deploy-ready
-```
-
-## `cat ./featured-systems.json`
-
-```json
-{
-  "enterprise": [
-    {
-      "name": "Meeting Room Booking",
-      "focus": "room scheduling, approval workflow, QR check-in",
-      "stack": [".NET Core", "Vue 3", "TypeScript", "PostgreSQL"]
-    },
-    {
-      "name": "Vehicle Booking System",
-      "focus": "fleet reservations, driver assignment, operational tracking",
-      "stack": ["C#", "EF Core", "PostgreSQL"]
-    },
-    {
-      "name": "Risk Management Platform",
-      "focus": "risk scoring, master data, escalation, audit trail",
-      "stack": ["Modular Architecture", "MediatR"]
-    }
-  ],
-  "ai_web": {
-    "name": "Buriram Travel Guide",
-    "focus": "AI travel assistant with map, weather, reviews, and POI discovery",
-    "stack": ["Next.js", "Supabase", "Gemini AI", "Tailwind"]
-  },
-  "security": {
-    "focus": ["CTF", "AI Security", "Web Exploitation", "OSINT", "Reverse Engineering"]
-  }
-}
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:D97757,30:E3B341,55:22C55E,80:8B5CF6,100:E879F9" width="100%" alt="" />
 
 ## `neofetch --github`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D97757&icon_color=22C55E&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="mek090 GitHub stats" />
-</td>
-<td align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&hide=html" alt="mek090 top languages" />
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mek090&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D97757&icon_color=22C55E&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="mek090 GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mek090&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&hide=html" alt="mek090 top languages" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0D1117&color=C9D1D9&line=22C55E&point=D97757&area_color=8B5CF6&area=true&hide_border=true&custom_title=Terminal%20Commit%20Graph" width="96%" alt="mek090 GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=mek090&hide_border=true&background=0D1117&ring=D97757&fire=E3B341&currStreakLabel=22C55E&currStreakNum=F0F6FC&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D" alt="mek090 streak" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mek090&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="96%" alt="mek090 trophies" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mek090&bg_color=0D1117&color=C9D1D9&line=22C55E&point=D97757&area_color=8B5CF6&area=true&hide_border=true&custom_title=Terminal%20Commit%20Graph" width="96%" alt="mek090 activity graph" />
+
+<br /><br />
+
+<!-- 🐍 contribution snake — ต้องติดตั้ง GitHub Action ก่อน (ดู snake-workflow.yml) -->
+<img src="https://raw.githubusercontent.com/mek090/mek090/output/github-contribution-grid-snake-dark.svg" width="96%" alt="contribution snake" />
 
 </div>
 
@@ -230,18 +138,20 @@ agent-workflow/
 08  clean UI + clean API + clean commits = maintainable system
 ```
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
+
+</div>
+
 ## `ping mek090`
 
-Open to collaboration on:
-
-- Full-stack web apps and internal systems
-- AI integrations and agentic workflows
-- Dashboards, booking platforms, operational tools
-- CTF, security learning, and AI security experiments
+Open to collaboration on full-stack apps, AI integrations, dashboards, booking platforms,
+and CTF / AI-security experiments.
 
 <div align="center">
 
-<a href="https://github.com/mek090"><img src="https://img.shields.io/badge/follow%20%40mek090-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Follow mek090 on GitHub" /></a>
+<a href="https://github.com/mek090"><img src="https://img.shields.io/badge/follow%20%40mek090-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Follow mek090" /></a>
 <a href="https://www.instagram.com/mke.ritt/"><img src="https://img.shields.io/badge/DM%20on%20Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="DM on Instagram" /></a>
 <a href="https://www.facebook.com/Rittipon.Aemprakhon"><img src="https://img.shields.io/badge/connect%20on%20Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=7AA2F7" alt="Connect on Facebook" /></a>
 
@@ -255,3 +165,9 @@ Open to collaboration on:
 │ build quietly · ship clearly · let commits speak                            │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22C55E,40:8B5CF6,70:D97757,100:0D1117&section=footer" width="100%" alt="" />
+
+</div>
